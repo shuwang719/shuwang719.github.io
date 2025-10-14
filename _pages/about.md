@@ -42,33 +42,32 @@ Research
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">2.</div>
   <div>
-    When Experimental Economics Meets Large Language Models: Evidence-based Tactics, 2025. 
-    [<a href="https://arxiv.org/abs/2505.21371" target="_blank">arxiv</a>] 
-  [<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display=(this.nextElementSibling.style.display==='none'?'block':'none');" style="text-decoration: underline; cursor: pointer;">Abstract</a>]
-      <div style="display: none; margin-top: 0.5em; padding: 0.5em; border-left: 3px solid #aaa; background: #f9f9f9;">
-        Advancements in large language models (LLMs) have sparked a growing interest in measuring and understanding their behavior through experimental economics. However, there is still a lack of established guidelines for designing economic experiments for LLMs. Inspired by principles from experimental economics with insights from LLM research in artificial intelligence, we outline key considerations in the experimental design and implementation stage, and perform two sets of experiments to assess the impact of these considerations on LLMs' responses. Based on our findings, we discuss seven practical tactics for conducting experiments with LLMs. Our study enhances the design, replicability, and generalizability of LLM experiments, and broadens the scope of experimental economics in the digital age.
-      </div>
-    <br>
+    When Experimental Economics Meets Large Language Models: Evidence-based Tactics, 2025. <br>
     <b>Wang, Shu</b>, 
     <a href="https://transirius.github.io/" target="_blank" style="color: inherit; text-decoration: underline;">Zijun Yao</a>,
     Shuhuai Zhang, Jianuo Gai, 
     <a href="https://tracyxliu.com/" target="_blank" style="color: inherit; text-decoration: underline;">Tracy Xiao Liu</a>,
-    <a href="https://zhongsongfa.weebly.com/" target="_blank" style="color: inherit; text-decoration: underline;">Songfa Zhong</a>
+    <a href="https://zhongsongfa.weebly.com/" target="_blank" style="color: inherit; text-decoration: underline;">Songfa Zhong</a>. 
+    [<a href="https://arxiv.org/abs/2505.21371" target="_blank">arxiv</a>] 
+  [<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display=(this.nextElementSibling.style.display==='none'?'block':'none');" style="text-decoration: underline; cursor: pointer;">Abstract</a>]
+      <div style="display: none; margin-top: 0.5em; padding: 0.5em; border-left: 3px solid #aaa; background: #f9f9f9; text-align: justify;">
+        Advancements in large language models (LLMs) have sparked a growing interest in measuring and understanding their behavior through experimental economics. However, there is still a lack of established guidelines for designing economic experiments for LLMs. Inspired by principles from experimental economics with insights from LLM research in artificial intelligence, we outline key considerations in the experimental design and implementation stage, and perform two sets of experiments to assess the impact of these considerations on LLMs' responses. Based on our findings, we discuss seven practical tactics for conducting experiments with LLMs. Our study enhances the design, replicability, and generalizability of LLM experiments, and broadens the scope of experimental economics in the digital age.
+      </div>
   </div>
 </div>
 
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">3.</div>
   <div>
-    The Surprising Benefits of Base Rate Neglect in Robust Aggregation, 2024.   
+    The Surprising Benefits of Base Rate Neglect in Robust Aggregation, 2024. <br>
+    <a href="https://cfcs.pku.edu.cn/yuqkong/" target="_blank" style="color: inherit; text-decoration: underline;">Kong, Yuqing</a>,
+    <b>Shu Wang</b>, Ying Wang
     [<a href="https://arxiv.org/abs/2406.13490" target="_blank">arxiv</a>] 
-  [<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display=(this.nextElementSibling.style.display==='none'?'block':'none');" style="text-decoration: underline; cursor: pointer;">Abstract</a>]
-      <div style="display: none; margin-top: 0.5em; padding: 0.5em; border-left: 3px solid #aaa; background: #f9f9f9;">
-        Advancements in large language models (LLMs) have sparked a growing interest in measuring and understanding their behavior through experimental economics. However, there is still a lack of established guidelines for designing economic experiments for LLMs. Inspired by principles from experimental economics with insights from LLM research in artificial intelligence, we outline key considerations in the experimental design and implementation stage, and perform two sets of experiments to assess the impact of these considerations on LLMs' responses. Based on our findings, we discuss seven practical tactics for conducting experiments with LLMs. Our study enhances the design, replicability, and generalizability of LLM experiments, and broadens the scope of experimental economics in the digital age.
+    [<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display=(this.nextElementSibling.style.display==='none'?'block':'none');" style="text-decoration: underline; cursor: pointer;">Abstract</a>]
+      <div style="display: none; margin-top: 0.5em; padding: 0.5em; border-left: 3px solid #aaa; background: #f9f9f9; text-align: justify;">
+        Robust aggregation integrates predictions from multiple experts without knowledge of experts' information structures. Prior work assumes experts are Bayesian, providing predictions as perfect posteriors based on their signals. However, real-world experts often deviate systematically from Bayesian reasoning. Our work considers experts who tend to ignore the base rate and reveals that a certain degree of base rate neglect helps robust forecast aggregation. Specifically, we consider a two-expert forecast aggregation problem with a binary world state. Experts exhibit base rate neglect, incorporating the base rate information to degree \( \lambda \in [0,1] \). Aggregators' performance is measured by the worst-case regret, which is the maximum regret across the set of considered information structures compared to an omniscient benchmark. Our results reveal the surprising V-shape of regret as a function of experts' base rate consideration degree \( \lambda \), meaning that predictions with intermediate base rate neglect can counter-intuitively lead to better aggregated predictions than perfect Bayesian posteriors.
       </div>
     <br>
-    <a href="https://cfcs.pku.edu.cn/yuqkong/" target="_blank" style="color: inherit; text-decoration: underline;">Kong, Yuqing</a>,
-    <b>Shu Wang</b>, Ying Wang<br>
     <span style="display: inline-block; margin-left: 0.5em;">• </span>
     <span>Extended abstract at <b><em>EC’24</em></b>. 
     [<a href="https://dl.acm.org/doi/abs/10.1145/3670865.3673618" target="_blank">Publisher</a>]</span>
