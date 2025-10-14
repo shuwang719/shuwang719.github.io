@@ -9,8 +9,9 @@ redirect_from:
 
 Welcome!
 ======
-I am a Ph.D candidate in economics at [School of Economics and Management](https://www.sem.tsinghua.edu.cn/en/){:target="_blank"}, [Tsinghua University](https://www.tsinghua.edu.cn/en/){:target="_blank"}. My research interests include experimental economics, behavioral economics, digital economy and health economics. 
-<!--<span style="display:block; margin-bottom:0.5em;"></span>
+I am a Ph.D candidate in economics at [School of Economics and Management](https://www.sem.tsinghua.edu.cn/en/){:target="_blank"}, [Tsinghua University](https://www.tsinghua.edu.cn/en/){:target="_blank"}. My research interests include experimental economics, behavioral economics, digital economy and health economics. <span style="display:block; margin-bottom:0.5em;"></span>
+Email: shu-wang20@mails.tsinghua.edu.cn or shuwang719@gmail.com
+<!-- <span style="display:block; margin-bottom:0.5em;"></span>
 You can download my CV here.
 -->
 
