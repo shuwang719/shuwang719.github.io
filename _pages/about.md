@@ -25,15 +25,16 @@ Working Paper
 <div style="display: flex; margin-bottom: 1.8em; line-height: 1.4;">
   <div style="width: 1.5em;">1.</div>
   <div>
-    How General Are Measures of Choice Consistency? Evidence from Experimental and Scanner Data, 2025. [[arxiv]](https://arxiv.org/abs/2505.05275){:target="_blank"}<br>
+    "How General Are Measures of Choice Consistency? Evidence from Experimental and Scanner Data", 2025. [[arxiv]](https://arxiv.org/abs/2505.05275){:target="_blank"}<br>
     Chen, Mingshi, Tracy Xiao Liu, You Shan, **Shu Wang**, Songfa Zhong, Yanju Zhou<br>
     <em>Year.</em> [link](#)
   </div>
 </div>
 
+<div style="display: flex; margin-bottom: 1.8em; line-height: 1.4;">
   <div style="width: 1.5em;">2.</div>
   <div>
-    When Experimental Economics Meets Large Language Models: Evidence-based Tactics, 2025. [[arxiv]](https://arxiv.org/abs/2505.21371){:target="_blank"}<br>
+    "When Experimental Economics Meets Large Language Models: Evidence-based Tactics", 2025. [[arxiv]](https://arxiv.org/abs/2505.21371){:target="_blank"}<br>
     **Wang, Shu**, Zijun Yao, Shuhuai Zhang, Jianuo Gai, Tracy Xiao Liu, Songfa Zhong<br>
     <em>Year.</em> [link](#)
   </div>
@@ -42,12 +43,42 @@ Working Paper
 <div style="display: flex; margin-bottom: 1.8em; line-height: 1.4;">
   <div style="width: 1.5em;">3.</div>
   <div>
-    The Surprising Benefits of Base Rate Neglect in Robust Aggregation, 2025. [arxiv](https://arxiv.org/abs/2406.13490){:target="_blank"}<br>
+    "The Surprising Benefits of Base Rate Neglect in Robust Aggregation", 2025. [arxiv](https://arxiv.org/abs/2406.13490){:target="_blank"}<br>
     Yuqing Kong, <b>Shu Wang</b>, Ying Wang<br>
     Extended abstract at <em>Proceedings of the 25th ACM Conference on Economics and Computation (EC’24)</em>. [Publisher](https://dl.acm.org/doi/abs/10.1145/3670865.3673618){:target="_blank"}
   </div>
 </div>
 
+
+
+<div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
+  <div style="width: 2em; flex-shrink: 0;">1.</div>
+  <div>
+    <b>"How General Are Measures of Choice Consistency? Evidence from Experimental and Scanner Data"</b>, 2025. 
+    <a href="https://arxiv.org/abs/2505.05275" target="_blank">[arxiv]</a><br>
+    Chen, Mingshi, Tracy Xiao Liu, You Shan, <b>Shu Wang</b>, Songfa Zhong, Yanju Zhou<br>
+  </div>
+</div>
+
+<div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
+  <div style="width: 2em; flex-shrink: 0;">2.</div>
+  <div>
+    <b>"When Experimental Economics Meets Large Language Models: Evidence-based Tactics"</b>, 2025. 
+    <a href="https://arxiv.org/abs/2505.21371" target="_blank">[arxiv]</a><br>
+    <b>Wang, Shu</b>, Zijun Yao, Shuhuai Zhang, Jianuo Gai, Tracy Xiao Liu, Songfa Zhong<br>
+  </div>
+</div>
+
+<div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
+  <div style="width: 2em; flex-shrink: 0;">3.</div>
+  <div>
+    <b>"The Surprising Benefits of Base Rate Neglect in Robust Aggregation"</b>, 2024. 
+    <a href="https://arxiv.org/abs/2406.13490" target="_blank">[arxiv]</a><br>
+    Yuqing Kong, <b>Shu Wang</b>, Ying Wang<br>
+    Extended abstract at <em>Proceedings of the 25th ACM Conference on Economics and Computation (EC’24)</em>. 
+    <a href="https://dl.acm.org/doi/abs/10.1145/3670865.3673618" target="_blank">[Publisher]</a>
+  </div>
+</div>
 
 
 <!--This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
