@@ -56,7 +56,7 @@ Research
     <a href="https://cfcs.pku.edu.cn/yuqkong/" target="_blank" style="color: inherit; text-decoration: underline;">Kong, Yuqing</a>,
     <b>Shu Wang</b>, Ying Wang<br>
     <span style="display: inline-block; margin-left: 0.5em;">• </span>
-    <span>Extended abstract at <em>(EC’24)</em>. 
+    <span>Extended abstract at <em>EC’24</em>. 
     [<a href="https://dl.acm.org/doi/abs/10.1145/3670865.3673618" target="_blank">Publisher</a>]</span>
   </div>
 </div>
