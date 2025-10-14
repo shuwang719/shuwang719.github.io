@@ -1,4 +1,11 @@
-permalink: / title: "Shu Wang（王澍）" author_profile: true redirect_from: - /about/ - /about.html ---
+---
+permalink: /
+title: "ABOUT ME"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 About me
 ======
