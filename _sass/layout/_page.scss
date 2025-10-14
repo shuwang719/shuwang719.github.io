@@ -19,8 +19,8 @@
 .page {
   @include breakpoint($large) {
     // 假设左栏宽度为 2/12
-    @include span(10 of 12 last);  // 中间内容占剩余10格
-    @include prefix(2 of 12);      // 左栏宽度
+    @include span(10.8 of 12 last);  // 中间内容占剩余10格
+    @include prefix(1.2 of 12);      // 左栏宽度
     @include suffix(0 of 12);      // 右栏隐藏
   }
 
