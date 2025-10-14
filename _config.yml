@@ -25,7 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "Shu Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D candidate at SEM, Tsinghua <br> shu-wang20@mails.tsinghua.edu.cn <br> shuwang719@gmail.com"
+  bio              : "Ph.D candidate at SEM, Tsinghua" 
+  #  <br> shu-wang20@mails.tsinghua.edu.cn <br> shuwang719@gmail.com
   # location         : "Beijing"
   # employer         : "Tsinghua University"
   uri              : # URL
