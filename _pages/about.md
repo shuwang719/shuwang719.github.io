@@ -10,6 +10,7 @@ redirect_from:
 About me
 ======
 I am a Ph.D candidate in economics at School of Economics and Management, Tsinghua University. My research interests include experimental economics, behavioral economics, digital economy and health economics. 
+
 You can download my CV here.
 
 <!--This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
@@ -18,7 +19,14 @@ You can download my CV here.
 Research
 ======
 Working Paper
-1. Chen, Mingshi, Tracy Xiao Liu, You Shan, **Shu Wang**, Songfa Zhong, Yanju Zhou, "How General Are Measures of Choice Consistency? Evidence from Experimental and Scanner Data", 2025. [here](https://arxiv.org/abs/2505.05275){:target="_blank"}
+1. Chen, Mingshi, Tracy Xiao Liu, You Shan, **Shu Wang**, Songfa Zhong, Yanju Zhou, "How General Are Measures of Choice Consistency? Evidence from Experimental and Scanner Data", 2025. [arxiv](https://arxiv.org/abs/2505.05275){:target="_blank"}
+2. **Wang, Shu**, Zijun Yao, Shuhuai Zhang, Jianuo Gai, Tracy Xiao Liu, Songfa ZHong, "When Experimental Economics Meets Large Language Models: Evidence-based Tactics", 2025. [arxiv](https://arxiv.org/abs/2505.21371){:target="_blank"}
+3. Kong, Yuqing, **Shu Wang**, Ying Wang, "The Surprising Benefits of Base Rate Neglect in Robust Aggregation", 2024. [arxiv](https://arxiv.org/abs/2406.13490){:target="_blank"}
+   • Extended abstract at *Proceedings of the 25th ACM Conference on Economics and Computation (EC’24)* [Publisher](https://dl.acm.org/doi/abs/10.1145/3670865.3673618){:target="_blank"}
+
+
+
+5. [here](https://arxiv.org/abs/2505.05275){:target="_blank"}
 
 
 <!--Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
