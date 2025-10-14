@@ -12,8 +12,8 @@ You can download my CV here.
 
 Research
 ======
-Working Paper
-------
+### Working Paper
+
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">1.</div>
   <div>
@@ -62,8 +62,7 @@ Working Paper
   </div>
 </div>
 
-Publication in Chinese
-------
+### Publication in Chinese
 
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">2.</div>
@@ -83,20 +82,19 @@ Publication in Chinese
   </div>
 </div>
 
-Research
+Teaching
 ======
+### Teaching Assistant
 
-Teaching Assistant
-------
 - Experimental Economics (graduate), Tsinghua University; 2023 spring, 2024 spring, 2025 spring
 - Behavioral Economics (graduate), Tsinghua University; 2022 spring
 - Intermediate Macroeconomics (undergraduate), Tsinghua University; 2021 fall
 - Econometrics (undergraduate), Nankai University; 2019 fall
 
-
-
-
-
+Professional Activities
+======
+### Referee
+*Journal of Economic Behavior & Organization*
 
 
 
