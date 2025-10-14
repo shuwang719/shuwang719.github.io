@@ -25,11 +25,12 @@ Research
   <div style="width: 2em; flex-shrink: 0;">1.</div>
   <div>
     How General Are Measures of Choice Consistency? Evidence from Experimental and Scanner Data, 2025. 
-  [<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display=(this.nextElementSibling.style.display==='none'?'block':'none');" style="text-decoration: underline; cursor: pointer;">Abstract</a>]
+    [<a href="https://arxiv.org/abs/2505.05275" target="_blank">arxiv</a>] 
+      [<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display=(this.nextElementSibling.style.display==='none'?'block':'none');" style="text-decoration: underline; cursor: pointer;">Abstract</a>]
       <div style="display: none; margin-top: 0.5em; padding: 0.5em; border-left: 3px solid #aaa; background: #f9f9f9;">
         Choice consistency with utility maximization, as a key assumption in economics, has been extensively used to evaluate decision quality of individuals and to predict real-world outcomes across different contexts. Here we investigate the generalizability of consistency measures derived from budgetary decisions in the lab-in-the-field experiment and purchasing decisions using supermarket scanner data. In the first study, we observe a lack of correlation between consistency scores derived from risky decisions in the experiment and those from supermarket food purchasing decisions. In the second study, we observe moderate correlations between experimental tasks and low to moderate correlations across purchasing categories and over time periods within the supermarket. Moreover, consistency in the two settings exhibits distinct predictive validity in predicting consumer behavior. These results suggest that choice consistency, as a measure of decision quality, may be better characterized as a multidimensional skill set rather than a single-dimensional ability.
       </div>
-    [<a href="https://arxiv.org/abs/2505.05275" target="_blank">arxiv</a>]<br>
+    <br>
     Chen, Mingshi, 
     <a href="https://tracyxliu.com/" target="_blank" style="color: inherit; text-decoration: underline;">Tracy Xiao Liu</a>,
     <a href="https://shanyouleo.github.io/" target="_blank" style="color: inherit; text-decoration: underline;">You Shan</a>,
@@ -43,11 +44,12 @@ Research
   <div style="width: 2em; flex-shrink: 0;">2.</div>
   <div>
     When Experimental Economics Meets Large Language Models: Evidence-based Tactics, 2025. 
-    [<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display = (this.nextElementSibling.style.display==='none'?'block':'none');" style="margin-left: 0.5em; text-decoration: underline; cursor: pointer;">Abstract</a>]
+    [<a href="https://arxiv.org/abs/2505.21371" target="_blank">arxiv</a>] 
+  [<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display=(this.nextElementSibling.style.display==='none'?'block':'none');" style="text-decoration: underline; cursor: pointer;">Abstract</a>]
       <div style="display: none; margin-top: 0.5em; padding: 0.5em; border-left: 3px solid #aaa; background: #f9f9f9;">
         Advancements in large language models (LLMs) have sparked a growing interest in measuring and understanding their behavior through experimental economics. However, there is still a lack of established guidelines for designing economic experiments for LLMs. Inspired by principles from experimental economics with insights from LLM research in artificial intelligence, we outline key considerations in the experimental design and implementation stage, and perform two sets of experiments to assess the impact of these considerations on LLMs' responses. Based on our findings, we discuss seven practical tactics for conducting experiments with LLMs. Our study enhances the design, replicability, and generalizability of LLM experiments, and broadens the scope of experimental economics in the digital age.
       </div>
-    [<a href="https://arxiv.org/abs/2505.21371" target="_blank">arxiv</a>]<br>
+    <br>
     <b>Wang, Shu</b>, 
     <a href="https://transirius.github.io/" target="_blank" style="color: inherit; text-decoration: underline;">Zijun Yao</a>,
     Shuhuai Zhang, Jianuo Gai, 
@@ -60,11 +62,12 @@ Research
   <div style="width: 2em; flex-shrink: 0;">3.</div>
   <div>
     The Surprising Benefits of Base Rate Neglect in Robust Aggregation, 2024.   
+    [<a href="https://arxiv.org/abs/2406.13490" target="_blank">arxiv</a>] 
   [<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display=(this.nextElementSibling.style.display==='none'?'block':'none');" style="text-decoration: underline; cursor: pointer;">Abstract</a>]
       <div style="display: none; margin-top: 0.5em; padding: 0.5em; border-left: 3px solid #aaa; background: #f9f9f9;">
         Advancements in large language models (LLMs) have sparked a growing interest in measuring and understanding their behavior through experimental economics. However, there is still a lack of established guidelines for designing economic experiments for LLMs. Inspired by principles from experimental economics with insights from LLM research in artificial intelligence, we outline key considerations in the experimental design and implementation stage, and perform two sets of experiments to assess the impact of these considerations on LLMs' responses. Based on our findings, we discuss seven practical tactics for conducting experiments with LLMs. Our study enhances the design, replicability, and generalizability of LLM experiments, and broadens the scope of experimental economics in the digital age.
       </div>
-    [<a href="https://arxiv.org/abs/2406.13490" target="_blank">arxiv</a>]<br>
+    <br>
     <a href="https://cfcs.pku.edu.cn/yuqkong/" target="_blank" style="color: inherit; text-decoration: underline;">Kong, Yuqing</a>,
     <b>Shu Wang</b>, Ying Wang<br>
     <span style="display: inline-block; margin-left: 0.5em;">• </span>
