@@ -61,7 +61,7 @@ Research
   <div>
     The Surprising Benefits of Base Rate Neglect in Robust Aggregation, 2024. <br>
     <a href="https://cfcs.pku.edu.cn/yuqkong/" target="_blank" style="color: inherit; text-decoration: underline;">Kong, Yuqing</a>,
-    <b>Shu Wang</b>, Ying Wang
+    <b>Shu Wang</b>, Ying Wang.
     [<a href="https://arxiv.org/abs/2406.13490" target="_blank">arxiv</a>] 
     [<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display=(this.nextElementSibling.style.display==='none'?'block':'none');" style="text-decoration: underline; cursor: pointer;">Abstract</a>]
       <div style="display: none; margin-top: 0.5em; padding: 0.5em; border-left: 3px solid #aaa; background: #f9f9f9; text-align: justify;">
