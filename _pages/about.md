@@ -1,4 +1,4 @@
----
+<img width="468" height="82" alt="image" src="https://github.com/user-attachments/assets/964df888-a988-4ad2-a5ed-3e96eebc5fb2" />---
 permalink: /
 title: "Shu Wang（王澍）"
 author_profile: true
@@ -56,7 +56,13 @@ Working Paper
   </div>
 </div>
 
-
+<div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
+  <div style="width: 2em; flex-shrink: 0;">3.</div>
+  <div>
+    "沉没成本效应与在线学习表现：一项田野实验研究"， 2025，世界经济，终审 <br>
+    刘天寒，<b>王澍</b><br>
+  </div>
+</div>
 
 <!--
 ---------------------------------------------------------------------------------------------------------------------------
