@@ -10,6 +10,8 @@ redirect_from:
 I am a Ph.D candidate in economics at School of Economics and Management, Tsinghua University. My research interests include experimental economics, behavioral economics, digital economy and health economics.<span style="display:block; margin-bottom:0.5em;"></span>
 You can download my CV here.
 
+<br>
+
 Research
 ======
 ### Working Paper
@@ -82,6 +84,8 @@ Research
   </div>
 </div>
 
+<br>
+
 Teaching
 ======
 ### Teaching Assistant
@@ -90,6 +94,8 @@ Teaching
 - Behavioral Economics (graduate), Tsinghua University; 2022 spring
 - Intermediate Macroeconomics (undergraduate), Tsinghua University; 2021 fall
 - Econometrics (undergraduate), Nankai University; 2019 fall
+
+<br>
 
 Professional Activities
 ======
