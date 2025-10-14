@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Shu Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D candidate at SEM, Tsinghua"
+  bio              : "Ph.D candidate at SEM, Tsinghua <br> shu-wang20@mails.tsinghua.edu.cn <br> shuwang719@gmail.com"
   # location         : "Beijing"
   # employer         : "Tsinghua University"
   uri              : # URL
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  # github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
