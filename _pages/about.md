@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Shu Wang（王澍）"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
@@ -9,7 +9,7 @@ redirect_from:
 
 About me
 ======
-I am a Ph.D candidate in economics at School of Economics and Management, Tsinghua University. My research interests include experimental economics, behavioral economics, digital economy and health economics. <br>
+I am a Ph.D candidate in economics at School of Economics and Management, Tsinghua University. My research interests include experimental economics, behavioral economics, digital economy and health economics.<span style="display:block; margin-bottom:0.5em;"></span>
 You can download my CV here.
 
 
@@ -33,7 +33,7 @@ Working Paper
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">2.</div>
   <div>
-    "When Experimental Economics Meets Large Language Models: Evidence-based Tactics", 2025. 
+    “When Experimental Economics Meets Large Language Models: Evidence-based Tactics”, 2025. 
     <a href="https://arxiv.org/abs/2505.21371" target="_blank">[arxiv]</a><br>
     <b>Wang, Shu</b>, 
     <a href="https://transirius.github.io/" target="_blank" style="color: inherit; text-decoration: underline;">Zijun Yao</a>,
