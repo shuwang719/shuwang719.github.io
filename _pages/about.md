@@ -67,7 +67,7 @@ Publication in Chinese
   <div style="width: 2em; flex-shrink: 0;">2.</div>
   <div>
     沉没成本效应与在线学习表现：一项田野实验研究，2022，国际贸易问题 <br>
-    <a href="https://economics.nankai.edu.cn/2019/1006/c16878a208301/page.htm" target="_blank">毛其淋</a><br>，
+    <a href="https://economics.nankai.edu.cn/2019/1006/c16878a208301/page.htm" target="_blank">毛其淋</a>，
     <b>王澍</b><br>
   </div>
 </div>
@@ -76,7 +76,7 @@ Publication in Chinese
   <div style="width: 2em; flex-shrink: 0;">1.</div>
   <div>
     地方金融自由化如何影响中国企业出口?: 以城市商业银行发展为例，2019，世界经济研究 <br>
-    <a href="https://economics.nankai.edu.cn/2019/1006/c16878a208301/page.htm" target="_blank">毛其淋</a><br>，
+    <a href="https://economics.nankai.edu.cn/2019/1006/c16878a208301/page.htm" target="_blank">毛其淋</a>，
     <b>王澍</b><br>
   </div>
 </div>
