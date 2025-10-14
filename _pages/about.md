@@ -24,19 +24,18 @@ Research
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">1.</div>
   <div>
-    How General Are Measures of Choice Consistency? Evidence from Experimental and Scanner Data, 2025. 
-    [<a href="https://arxiv.org/abs/2505.05275" target="_blank">arxiv</a>] 
-      [<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display=(this.nextElementSibling.style.display==='none'?'block':'none');" style="text-decoration: underline; cursor: pointer;">Abstract</a>]
-      <div style="display: none; margin-top: 0.5em; padding: 0.5em; border-left: 3px solid #aaa; background: #f9f9f9; text-align: justify;">
-        Choice consistency with utility maximization, as a key assumption in economics, has been extensively used to evaluate decision quality of individuals and to predict real-world outcomes across different contexts. Here we investigate the generalizability of consistency measures derived from budgetary decisions in the lab-in-the-field experiment and purchasing decisions using supermarket scanner data. In the first study, we observe a lack of correlation between consistency scores derived from risky decisions in the experiment and those from supermarket food purchasing decisions. In the second study, we observe moderate correlations between experimental tasks and low to moderate correlations across purchasing categories and over time periods within the supermarket. Moreover, consistency in the two settings exhibits distinct predictive validity in predicting consumer behavior. These results suggest that choice consistency, as a measure of decision quality, may be better characterized as a multidimensional skill set rather than a single-dimensional ability.
-      </div>
-    <br>
+    How General Are Measures of Choice Consistency? Evidence from Experimental and Scanner Data, 2025. <br>
     Chen, Mingshi, 
     <a href="https://tracyxliu.com/" target="_blank" style="color: inherit; text-decoration: underline;">Tracy Xiao Liu</a>,
     <a href="https://shanyouleo.github.io/" target="_blank" style="color: inherit; text-decoration: underline;">You Shan</a>,
     <b>Shu Wang</b>, 
     <a href="https://zhongsongfa.weebly.com/" target="_blank" style="color: inherit; text-decoration: underline;">Songfa Zhong</a>,
-    Yanju Zhou
+    Yanju Zhou. 
+    [<a href="https://arxiv.org/abs/2505.05275" target="_blank">arxiv</a>]  
+      [<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display=(this.nextElementSibling.style.display==='none'?'block':'none');" style="text-decoration: underline; cursor: pointer;">Abstract</a>]
+      <div style="display: none; margin-top: 0.5em; padding: 0.5em; border-left: 3px solid #aaa; background: #f9f9f9; text-align: justify;">
+        Choice consistency with utility maximization, as a key assumption in economics, has been extensively used to evaluate decision quality of individuals and to predict real-world outcomes across different contexts. Here we investigate the generalizability of consistency measures derived from budgetary decisions in the lab-in-the-field experiment and purchasing decisions using supermarket scanner data. In the first study, we observe a lack of correlation between consistency scores derived from risky decisions in the experiment and those from supermarket food purchasing decisions. In the second study, we observe moderate correlations between experimental tasks and low to moderate correlations across purchasing categories and over time periods within the supermarket. Moreover, consistency in the two settings exhibits distinct predictive validity in predicting consumer behavior. These results suggest that choice consistency, as a measure of decision quality, may be better characterized as a multidimensional skill set rather than a single-dimensional ability.
+      </div>
   </div>
 </div>
 
