@@ -24,7 +24,7 @@ Research
   <div style="width: 2em; flex-shrink: 0;">1.</div>
   <div>
     How General Are Measures of Choice Consistency? Evidence from Experimental and Scanner Data, 2025. 
-    <a href="https://arxiv.org/abs/2505.05275" target="_blank">[arxiv]</a><br>
+    [<a href="https://arxiv.org/abs/2505.05275" target="_blank">arxiv</a>]<br>
     Chen, Mingshi, 
     <a href="https://tracyxliu.com/" target="_blank" style="color: inherit; text-decoration: underline;">Tracy Xiao Liu</a>,
     <a href="https://shanyouleo.github.io/" target="_blank" style="color: inherit; text-decoration: underline;">You Shan</a>,
@@ -38,7 +38,7 @@ Research
   <div style="width: 2em; flex-shrink: 0;">2.</div>
   <div>
     When Experimental Economics Meets Large Language Models: Evidence-based Tactics, 2025. 
-    <a href="https://arxiv.org/abs/2505.21371" target="_blank">[arxiv]</a><br>
+    [<a href="https://arxiv.org/abs/2505.21371" target="_blank">arxiv</a>]<br>
     <b>Wang, Shu</b>, 
     <a href="https://transirius.github.io/" target="_blank" style="color: inherit; text-decoration: underline;">Zijun Yao</a>,
     Shuhuai Zhang, Jianuo Gai, 
@@ -51,12 +51,12 @@ Research
   <div style="width: 2em; flex-shrink: 0;">3.</div>
   <div>
     The Surprising Benefits of Base Rate Neglect in Robust Aggregation, 2024. 
-    <a href="https://arxiv.org/abs/2406.13490" target="_blank">[arxiv]</a><br>
+    [<a href="https://arxiv.org/abs/2406.13490" target="_blank">arxiv</a>]<br>
     <a href="https://cfcs.pku.edu.cn/yuqkong/" target="_blank" style="color: inherit; text-decoration: underline;">Kong, Yuqing</a>,
     <b>Shu Wang</b>, Ying Wang<br>
     <span style="display: inline-block; margin-left: 0.5em;">• </span>
     <span>Extended abstract at <em>Proceedings of the 25th ACM Conference on Economics and Computation (EC’24)</em>. 
-    <a href="https://dl.acm.org/doi/abs/10.1145/3670865.3673618" target="_blank">[Publisher]</a></span>
+    [<a href="https://dl.acm.org/doi/abs/10.1145/3670865.3673618" target="_blank">Publisher</a>]</span>
   </div>
 </div>
 
@@ -73,7 +73,9 @@ Research
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">2.</div>
   <div>
-    沉没成本效应与在线学习表现：一项田野实验研究，2022，国际贸易问题 <br>
+    沉没成本效应与在线学习表现：一项田野实验研究，2022，国际贸易问题. 
+    [<a href="https://shuwang719.github.io/docs/2022%E5%9B%BD%E9%99%85%E8%B4%B8%E6%98%93%E9%97%AE%E9%A2%98.pdf" target="_blank">PDF</a>]<br>
+    <br>
     <a href="https://economics.nankai.edu.cn/2019/1006/c16878a208301/page.htm" target="_blank" style="color: inherit; text-decoration: underline;">毛其淋</a>，
     <b>王澍</b><br>
   </div>
@@ -82,7 +84,9 @@ Research
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">1.</div>
   <div>
-    地方金融自由化如何影响中国企业出口?: 以城市商业银行发展为例，2019，世界经济研究 <br>
+    地方金融自由化如何影响中国企业出口?: 以城市商业银行发展为例，2019，世界经济研究.
+    [<a href="https://shuwang719.github.io/docs/2019%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E%E7%A0%94%E7%A9%B6.pdf" target="_blank">PDF</a>]<br>
+    <br>
     <a href="https://economics.nankai.edu.cn/2019/1006/c16878a208301/page.htm" target="_blank" style="color: inherit; text-decoration: underline;">毛其淋</a>，
     <b>王澍</b><br>
   </div>
