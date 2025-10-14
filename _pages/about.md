@@ -10,10 +10,10 @@ redirect_from:
 I am a Ph.D candidate in economics at School of Economics and Management, Tsinghua University. My research interests include experimental economics, behavioral economics, digital economy and health economics.<span style="display:block; margin-bottom:0.5em;"></span>
 You can download my CV here.
 
-
 Research
 ======
 Working Paper
+------
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">1.</div>
   <div>
@@ -63,6 +63,8 @@ Working Paper
 </div>
 
 Publication in Chinese
+------
+
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">2.</div>
   <div>
@@ -80,6 +82,34 @@ Publication in Chinese
     <b>王澍</b><br>
   </div>
 </div>
+
+Research
+======
+
+Teaching Assistant
+------
+- Experimental Economics (graduate), Tsinghua University; 2023 spring, 2024 spring, 2025 spring
+- Behavioral Economics (graduate), Tsinghua University; 2022 spring
+- Intermediate Macroeconomics (undergraduate), Tsinghua University; 2021 fall
+- Econometrics (undergraduate), Nankai University; 2019 fall
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 ---------------------------------------------------------------------------------------------------------------------------
