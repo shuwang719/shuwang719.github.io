@@ -9,8 +9,7 @@ redirect_from:
 
 About me
 ======
-I am a Ph.D candidate in economics at School of Economics and Management, Tsinghua University. My research interests include experimental economics, behavioral economics, digital economy and health economics. 
-
+I am a Ph.D candidate in economics at School of Economics and Management, Tsinghua University. My research interests include experimental economics, behavioral economics, digital economy and health economics. <br>
 You can download my CV here.
 
 
