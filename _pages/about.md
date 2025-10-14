@@ -25,6 +25,12 @@ Research
   <div style="width: 2em; flex-shrink: 0;">1.</div>
   <div>
     How General Are Measures of Choice Consistency? Evidence from Experimental and Scanner Data, 2025. 
+    [<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display = (this.nextElementSibling.style.display==='none'?'block':'none');" style="margin-left: 0.5em; text-decoration: underline; cursor: pointer;">Abstract</a>]
+  
+      <div style="display: none; margin-top: 0.5em; padding: 0.5em; border-left: 3px solid #aaa; background: #f9f9f9;">
+        This paper investigates how general measures of choice consistency are across different experimental and scanner data. We find that...
+      </div>
+
     [<a href="https://arxiv.org/abs/2505.05275" target="_blank">arxiv</a>]<br>
     Chen, Mingshi, 
     <a href="https://tracyxliu.com/" target="_blank" style="color: inherit; text-decoration: underline;">Tracy Xiao Liu</a>,
