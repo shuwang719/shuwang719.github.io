@@ -64,7 +64,7 @@ Research
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">4.</div>
   <div>
-    沉没成本效应与在线学习表现：一项田野实验研究，2025，世界经济，终审 <br>
+    沉没成本效应与在线学习表现：一项田野实验研究，<b>世界经济</b>，2025，终审. <br>
     刘天寒，<b>王澍</b>（通讯作者）<br>
   </div>
 </div>
@@ -74,7 +74,7 @@ Research
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">2.</div>
   <div>
-    外资并购对中国企业产能利用率的影响，2022，国际贸易问题. 
+    外资并购对中国企业产能利用率的影响，<b>国际贸易问题</b>，2022. 
     [<a href="https://shuwang719.github.io/docs/2022%E5%9B%BD%E9%99%85%E8%B4%B8%E6%98%93%E9%97%AE%E9%A2%98.pdf" target="_blank">PDF</a>]<br>
     <a href="https://economics.nankai.edu.cn/2019/1006/c16878a208301/page.htm" target="_blank" style="color: inherit; text-decoration: underline;">毛其淋</a>，
     <b>王澍</b><br>
@@ -84,7 +84,7 @@ Research
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">1.</div>
   <div>
-    地方金融自由化如何影响中国企业出口?: 以城市商业银行发展为例，2019，世界经济研究.
+    地方金融自由化如何影响中国企业出口?: 以城市商业银行发展为例，<b>世界经济研究</b>，2019.
     [<a href="https://shuwang719.github.io/docs/2019%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E%E7%A0%94%E7%A9%B6.pdf" target="_blank">PDF</a>]<br>
     <a href="https://economics.nankai.edu.cn/2019/1006/c16878a208301/page.htm" target="_blank" style="color: inherit; text-decoration: underline;">毛其淋</a>，
     <b>王澍</b><br>
