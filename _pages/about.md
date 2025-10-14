@@ -37,7 +37,7 @@ Working Paper
     <b>"When Experimental Economics Meets Large Language Models: Evidence-based Tactics"</b>, 2025. 
     <a href="https://arxiv.org/abs/2505.21371" target="_blank">[arxiv]</a><br>
     <b>Wang, Shu</b>, 
-    <a href="[https://tracyxliu.com/](https://transirius.github.io/)" target="_blank" style="color: black; text-decoration: underline;">Zijun Yao</a>,
+    <a href="https://transirius.github.io/" target="_blank" style="color: black; text-decoration: underline;">Zijun Yao</a>,
     Shuhuai Zhang, Jianuo Gai, 
     <a href="https://tracyxliu.com/" target="_blank" style="color: black; text-decoration: underline;">Tracy Xiao Liu</a>,
     <a href="https://zhongsongfa.weebly.com/" target="_blank" style="color: black; text-decoration: underline;">Songfa Zhong</a>
@@ -49,7 +49,7 @@ Working Paper
   <div>
     <b>"The Surprising Benefits of Base Rate Neglect in Robust Aggregation"</b>, 2024. 
     <a href="https://arxiv.org/abs/2406.13490" target="_blank">[arxiv]</a><br>
-    <a href="[https://tracyxliu.com/](https://cfcs.pku.edu.cn/yuqkong/)" target="_blank" style="color: black; text-decoration: underline;">Kong, Yuqing</a>,
+    <a href="https://cfcs.pku.edu.cn/yuqkong/" target="_blank" style="color: black; text-decoration: underline;">Kong, Yuqing</a>,
     <b>Shu Wang</b>, Ying Wang<br>
     <span style="display: inline-block; margin-left: 0.5em;">• </span>
     <span>Extended abstract at <em>Proceedings of the 25th ACM Conference on Economics and Computation (EC’24)</em>. 
