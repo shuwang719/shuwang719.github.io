@@ -34,50 +34,24 @@ Yuqing Kong, <b>Shu Wang</b>, Ying Wang<br>
 [Publisher](https://dl.acm.org/doi/abs/10.1145/3670865.3673618){:target="_blank"}
 </span>
 
-</div>
-
-<div style="margin-bottom: 1.8em; line-height: 1.4;">
-<b>The Surprising Benefits of Base Rate Neglect in Robust Aggregation</b><br>
-Yuqing Kong, <b>Shu Wang</b>, Ying Wang<br>
-<em>Year</em>. [link](#)
-</div>
-
-<div style="margin-bottom: 1.8em; line-height: 1.4;">
-<b>The Surprising Benefits of Base Rate Neglect in Robust Aggregation</b><br>
-Yuqing Kong, <b>Shu Wang</b>, Ying Wang<br>
-<em>Year</em>. [link](#)
-</div>
-
 <div style="display: flex; margin-bottom: 1.8em; line-height: 1.4;">
-  <div style="width: 2em; font-weight: bold;">1.</div>
+  <div style="width: 2em;">1.</div>
   <div>
-    <b>Title A</b><br>
+    The Surprising Benefits of Base Rate Neglect in Robust Aggregation<br>
     Author list<br>
     <em>Year.</em> [link](#)
   </div>
 </div>
 
 <div style="display: flex; margin-bottom: 1.8em; line-height: 1.4;">
-  <div style="width: 2em; font-weight: bold;">2.</div>
+  <div style="width: 1em;">2.</div>
   <div>
-    <b>Title B</b><br>
+    The Surprising Benefits of Base Rate Neglect in Robust Aggregation<br>
     Author list<br>
     <em>Year.</em> [link](#)
   </div>
 </div>
 
-
-<div style="margin-bottom: 1.8em; line-height: 1.4; margin-left: 1.5em;">
-<span style="font-weight: bold;">1.</span> <b>Title A</b><br>
-Author list<br>
-<em>Year.</em> [link](#)
-</div>
-
-<div style="margin-bottom: 1.8em; line-height: 1.4; margin-left: 1.5em;">
-<span style="font-weight: bold;">2.</span> <b>Title B</b><br>
-Author list<br>
-<em>Year.</em> [link](#)
-</div>
 
 
 <!--This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
