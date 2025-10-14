@@ -31,7 +31,10 @@ Working Paper
   <div>
     <b>"When Experimental Economics Meets Large Language Models: Evidence-based Tactics"</b>, 2025. 
     <a href="https://arxiv.org/abs/2505.21371" target="_blank">[arxiv]</a><br>
-    <b>Wang, Shu</b>, Zijun Yao, Shuhuai Zhang, Jianuo Gai, <a href="https://tracyxliu.com/" target="_blank">Tracy Xiao Liu</a>, Songfa Zhong
+    <b>Wang, Shu</b>, Zijun Yao, Shuhuai Zhang, Jianuo Gai, 
+    <a href="https://tracyxliu.com/" target="_blank">Tracy Xiao Liu</a>, 
+    <a href="https://tracyxliu.com/" target="_blank" style="color: #0000EE; text-decoration: underline;">Tracy Xiao Liu</a>,
+    Songfa Zhong
   </div>
 </div>
 
