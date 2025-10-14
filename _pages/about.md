@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "ABOUT ME"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+Welcome!
+======
 I am a Ph.D candidate in economics at School of Economics and Management, Tsinghua University. My research interests include experimental economics, behavioral economics, digital economy and health economics. 
 <!--<span style="display:block; margin-bottom:0.5em;"></span>
 You can download my CV here.
