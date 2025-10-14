@@ -19,10 +19,12 @@ You can download my CV here.
 Research
 ======
 Working Paper
-1. Chen, Mingshi, Tracy Xiao Liu, You Shan, **Shu Wang**, Songfa Zhong, Yanju Zhou, "How General Are Measures of Choice Consistency? Evidence from Experimental and Scanner Data", 2025. [arxiv](https://arxiv.org/abs/2505.05275){:target="_blank"}
-2. **Wang, Shu**, Zijun Yao, Shuhuai Zhang, Jianuo Gai, Tracy Xiao Liu, Songfa ZHong, "When Experimental Economics Meets Large Language Models: Evidence-based Tactics", 2025. [arxiv](https://arxiv.org/abs/2505.21371){:target="_blank"}
-3. Kong, Yuqing, **Shu Wang**, Ying Wang, "The Surprising Benefits of Base Rate Neglect in Robust Aggregation", 2024. [arxiv](https://arxiv.org/abs/2406.13490){:target="_blank"}
-   • Extended abstract at *Proceedings of the 25th ACM Conference on Economics and Computation (EC’24)* [Publisher](https://dl.acm.org/doi/abs/10.1145/3670865.3673618){:target="_blank"}
+1. Chen, Mingshi, Tracy Xiao Liu, You Shan, **Shu Wang**, Songfa Zhong, Yanju Zhou, "How General Are Measures of Choice Consistency? Evidence from Experimental and Scanner Data", 2025. [[arxiv]](https://arxiv.org/abs/2505.05275){:target="_blank"}
+2. **Wang, Shu**, Zijun Yao, Shuhuai Zhang, Jianuo Gai, Tracy Xiao Liu, Songfa ZHong, "When Experimental Economics Meets Large Language Models: Evidence-based Tactics", 2025. [[arxiv]](https://arxiv.org/abs/2505.21371){:target="_blank"}
+3. Kong, Yuqing, **Shu Wang**, Ying Wang, "The Surprising Benefits of Base Rate Neglect in Robust Aggregation", 2024. [[arxiv]](https://arxiv.org/abs/2406.13490){:target="_blank"}  
+   • Extended abstract at *Proceedings of the 25th ACM Conference on Economics and Computation (EC’24)* [[Publisher]](https://dl.acm.org/doi/abs/10.1145/3670865.3673618){:target="_blank"}
+
+
 
 
 
