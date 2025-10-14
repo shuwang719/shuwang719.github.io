@@ -25,6 +25,18 @@ Working Paper
    • Extended abstract at *Proceedings of the 25th ACM Conference on Economics and Computation (EC’24)* [[Publisher]](https://dl.acm.org/doi/abs/10.1145/3670865.3673618){:target="_blank"}
 
 
+<div style="margin-bottom: 1.5em; line-height: 1.4;">
+
+<b>The Surprising Benefits of Base Rate Neglect in Robust Aggregation</b><br>
+Yuqing Kong, <b>Shu Wang</b>, Ying Wang<br>
+<em>2024.</em> 
+[arxiv](https://arxiv.org/abs/2406.13490){:target="_blank"}<br>
+<span style="font-size: 0.95em; color: #555;">
+• Extended abstract at <em>Proceedings of the 25th ACM Conference on Economics and Computation (EC’24)</em> 
+[Publisher](https://dl.acm.org/doi/abs/10.1145/3670865.3673618){:target="_blank"}
+</span>
+
+</div>
 
 
 
