@@ -62,6 +62,25 @@ Working Paper
   </div>
 </div>
 
+Publication in Chinese
+<div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
+  <div style="width: 2em; flex-shrink: 0;">2.</div>
+  <div>
+    沉没成本效应与在线学习表现：一项田野实验研究，2022，国际贸易问题 <br>
+    <a href="https://economics.nankai.edu.cn/2019/1006/c16878a208301/page.htm" target="_blank">毛其淋</a><br>，
+    <b>王澍</b><br>
+  </div>
+</div>
+
+<div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
+  <div style="width: 2em; flex-shrink: 0;">1.</div>
+  <div>
+    地方金融自由化如何影响中国企业出口?: 以城市商业银行发展为例，2019，世界经济研究 <br>
+    <a href="https://economics.nankai.edu.cn/2019/1006/c16878a208301/page.htm" target="_blank">毛其淋</a><br>，
+    <b>王澍</b><br>
+  </div>
+</div>
+
 <!--
 ---------------------------------------------------------------------------------------------------------------------------
 1. Chen, Mingshi, Tracy Xiao Liu, You Shan, **Shu Wang**, Songfa Zhong, Yanju Zhou, "How General Are Measures of Choice Consistency? Evidence from Experimental and Scanner Data", 2025. [[arxiv]](https://arxiv.org/abs/2505.05275){:target="_blank"}
