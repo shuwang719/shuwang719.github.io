@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Shu Wang（王澍）"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
@@ -20,7 +20,7 @@ Working Paper
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">1.</div>
   <div>
-    <b>"How General Are Measures of Choice Consistency? Evidence from Experimental and Scanner Data"</b>, 2025. 
+    "How General Are Measures of Choice Consistency? Evidence from Experimental and Scanner Data", 2025. 
     <a href="https://arxiv.org/abs/2505.05275" target="_blank">[arxiv]</a><br>
     Chen, Mingshi, 
     <a href="https://tracyxliu.com/" target="_blank" style="color: inherit; text-decoration: underline;">Tracy Xiao Liu</a>,
@@ -34,7 +34,7 @@ Working Paper
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">2.</div>
   <div>
-    <b>"When Experimental Economics Meets Large Language Models: Evidence-based Tactics"</b>, 2025. 
+    "When Experimental Economics Meets Large Language Models: Evidence-based Tactics", 2025. 
     <a href="https://arxiv.org/abs/2505.21371" target="_blank">[arxiv]</a><br>
     <b>Wang, Shu</b>, 
     <a href="https://transirius.github.io/" target="_blank" style="color: inherit; text-decoration: underline;">Zijun Yao</a>,
@@ -47,7 +47,7 @@ Working Paper
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">3.</div>
   <div>
-    <b>"The Surprising Benefits of Base Rate Neglect in Robust Aggregation"</b>, 2024. 
+    "The Surprising Benefits of Base Rate Neglect in Robust Aggregation", 2024. 
     <a href="https://arxiv.org/abs/2406.13490" target="_blank">[arxiv]</a><br>
     <a href="https://cfcs.pku.edu.cn/yuqkong/" target="_blank" style="color: inherit; text-decoration: underline;">Kong, Yuqing</a>,
     <b>Shu Wang</b>, Ying Wang<br>
@@ -60,7 +60,7 @@ Working Paper
 
 
 <!--
-
+---------------------------------------------------------------------------------------------------------------------------
 1. Chen, Mingshi, Tracy Xiao Liu, You Shan, **Shu Wang**, Songfa Zhong, Yanju Zhou, "How General Are Measures of Choice Consistency? Evidence from Experimental and Scanner Data", 2025. [[arxiv]](https://arxiv.org/abs/2505.05275){:target="_blank"}
 2. **Wang, Shu**, Zijun Yao, Shuhuai Zhang, Jianuo Gai, Tracy Xiao Liu, Songfa ZHong, "When Experimental Economics Meets Large Language Models: Evidence-based Tactics", 2025. [[arxiv]](https://arxiv.org/abs/2505.21371){:target="_blank"}
 3. Kong, Yuqing, **Shu Wang**, Ying Wang, "The Surprising Benefits of Base Rate Neglect in Robust Aggregation", 2024. [[arxiv]](https://arxiv.org/abs/2406.13490){:target="_blank"}  
