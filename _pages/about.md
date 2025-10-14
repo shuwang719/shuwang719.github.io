@@ -31,7 +31,7 @@ Working Paper
   <div>
     <b>"When Experimental Economics Meets Large Language Models: Evidence-based Tactics"</b>, 2025. 
     <a href="https://arxiv.org/abs/2505.21371" target="_blank">[arxiv]</a><br>
-    <b>Wang, Shu</b>, Zijun Yao, Shuhuai Zhang, Jianuo Gai, Tracy Xiao Liu, Songfa Zhong
+    <b>Wang, Shu</b>, Zijun Yao, Shuhuai Zhang, Jianuo Gai, <a href="https://tracyxliu.com/" target="_blank">Tracy Xiao Liu</a>, Songfa Zhong
   </div>
 </div>
 
@@ -40,7 +40,7 @@ Working Paper
   <div>
     <b>"The Surprising Benefits of Base Rate Neglect in Robust Aggregation"</b>, 2024. 
     <a href="https://arxiv.org/abs/2406.13490" target="_blank">[arxiv]</a><br>
-    Yuqing Kong, <b>Shu Wang</b>, Ying Wang<br>
+    Kong, Yuqing, <b>Shu Wang</b>, Ying Wang<br>
     <span style="display: inline-block; margin-left: 0.5em;">•</span>
     <span>Extended abstract at <em>Proceedings of the 25th ACM Conference on Economics and Computation (EC’24)</em>. 
     <a href="https://dl.acm.org/doi/abs/10.1145/3670865.3673618" target="_blank">[Publisher]</a></span>
