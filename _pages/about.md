@@ -22,29 +22,25 @@ Working Paper
 3. Kong, Yuqing, **Shu Wang**, Ying Wang, "The Surprising Benefits of Base Rate Neglect in Robust Aggregation", 2024. [[arxiv]](https://arxiv.org/abs/2406.13490){:target="_blank"}  
    • Extended abstract at *Proceedings of the 25th ACM Conference on Economics and Computation (EC’24)* [[Publisher]](https://dl.acm.org/doi/abs/10.1145/3670865.3673618){:target="_blank"}
 
-
-<div style="margin-bottom: 1.5em; line-height: 1.4;">
-
-<b>The Surprising Benefits of Base Rate Neglect in Robust Aggregation</b><br>
-Yuqing Kong, <b>Shu Wang</b>, Ying Wang<br>
-<em>2024.</em> 
-[arxiv](https://arxiv.org/abs/2406.13490){:target="_blank"}<br>
-<span style="font-size: 0.95em; color: #555;">
-• Extended abstract at <em>Proceedings of the 25th ACM Conference on Economics and Computation (EC’24)</em> 
-[Publisher](https://dl.acm.org/doi/abs/10.1145/3670865.3673618){:target="_blank"}
-</span>
-
 <div style="display: flex; margin-bottom: 1.8em; line-height: 1.4;">
-  <div style="width: 2.5em;">1.</div>
+  <div style="width: 1.5em;">1.</div>
   <div>
-    The Surprising Benefits of Base Rate Neglect in Robust Aggregation<br>
-    Author list<br>
+    How General Are Measures of Choice Consistency? Evidence from Experimental and Scanner Data, 2025. [[arxiv]](https://arxiv.org/abs/2505.05275){:target="_blank"}<br>
+    Chen, Mingshi, Tracy Xiao Liu, You Shan, **Shu Wang**, Songfa Zhong, Yanju Zhou<br>
+    <em>Year.</em> [link](#)
+  </div>
+</div>
+
+  <div style="width: 1.5em;">2.</div>
+  <div>
+    When Experimental Economics Meets Large Language Models: Evidence-based Tactics, 2025. [[arxiv]](https://arxiv.org/abs/2505.21371){:target="_blank"}<br>
+    **Wang, Shu**, Zijun Yao, Shuhuai Zhang, Jianuo Gai, Tracy Xiao Liu, Songfa Zhong<br>
     <em>Year.</em> [link](#)
   </div>
 </div>
 
 <div style="display: flex; margin-bottom: 1.8em; line-height: 1.4;">
-  <div style="width: 1.5em;">2.</div>
+  <div style="width: 1.5em;">3.</div>
   <div>
     The Surprising Benefits of Base Rate Neglect in Robust Aggregation, 2025. [arxiv](https://arxiv.org/abs/2406.13490){:target="_blank"}<br>
     Yuqing Kong, <b>Shu Wang</b>, Ying Wang<br>
