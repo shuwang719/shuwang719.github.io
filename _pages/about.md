@@ -1,4 +1,3 @@
-<img width="468" height="82" alt="image" src="https://github.com/user-attachments/assets/964df888-a988-4ad2-a5ed-3e96eebc5fb2" />---
 permalink: /
 title: "Shu Wang（王澍）"
 author_profile: true
@@ -19,7 +18,7 @@ Working Paper
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">1.</div>
   <div>
-    "How General Are Measures of Choice Consistency? Evidence from Experimental and Scanner Data", 2025. 
+    How General Are Measures of Choice Consistency? Evidence from Experimental and Scanner Data, 2025. 
     <a href="https://arxiv.org/abs/2505.05275" target="_blank">[arxiv]</a><br>
     Chen, Mingshi, 
     <a href="https://tracyxliu.com/" target="_blank" style="color: inherit; text-decoration: underline;">Tracy Xiao Liu</a>,
@@ -33,7 +32,7 @@ Working Paper
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">2.</div>
   <div>
-    “When Experimental Economics Meets Large Language Models: Evidence-based Tactics”, 2025. 
+    When Experimental Economics Meets Large Language Models: Evidence-based Tactics, 2025. 
     <a href="https://arxiv.org/abs/2505.21371" target="_blank">[arxiv]</a><br>
     <b>Wang, Shu</b>, 
     <a href="https://transirius.github.io/" target="_blank" style="color: inherit; text-decoration: underline;">Zijun Yao</a>,
@@ -46,7 +45,7 @@ Working Paper
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">3.</div>
   <div>
-    "The Surprising Benefits of Base Rate Neglect in Robust Aggregation", 2024. 
+    The Surprising Benefits of Base Rate Neglect in Robust Aggregation, 2024. 
     <a href="https://arxiv.org/abs/2406.13490" target="_blank">[arxiv]</a><br>
     <a href="https://cfcs.pku.edu.cn/yuqkong/" target="_blank" style="color: inherit; text-decoration: underline;">Kong, Yuqing</a>,
     <b>Shu Wang</b>, Ying Wang<br>
@@ -56,13 +55,7 @@ Working Paper
   </div>
 </div>
 
-<div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
-  <div style="width: 2em; flex-shrink: 0;">3.</div>
-  <div>
-    "沉没成本效应与在线学习表现：一项田野实验研究"， 2025，世界经济，终审 <br>
-    刘天寒，<b>王澍</b><br>
-  </div>
-</div>
+
 
 <!--
 ---------------------------------------------------------------------------------------------------------------------------
