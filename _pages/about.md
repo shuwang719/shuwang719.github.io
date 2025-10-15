@@ -19,7 +19,7 @@ You can download my CV here.
 
 Research
 ======
-### Working Paper
+### Working Papers
 
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">1.</div>
@@ -82,7 +82,7 @@ Research
   </div>
 </div>
 
-### Publication in Chinese
+### Publications in Chinese
 
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">2.</div>
