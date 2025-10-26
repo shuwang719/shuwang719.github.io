@@ -12,7 +12,7 @@ Welcome!
 I am a Ph.D candidate in economics at [School of Economics and Management](https://www.sem.tsinghua.edu.cn/en/){:target="_blank"}, [Tsinghua University](https://www.tsinghua.edu.cn/en/){:target="_blank"}. My research interests include experimental economics, behavioral economics, digital economy and health economics. <span style="display:block; margin-bottom:0.5em;"></span>
 You can download my CV [here](https://shuwang719.github.io/docs/Shu%20Wang-CV.pdf){:target="_blank"}. <span style="display:block; margin-bottom:0.5em;"></span>
 I am on the 2025-26 job market. <span style="display:block; margin-bottom:0.5em;"></span>
-Email: <u>shu-wang20@mails.tsinghua.edu.cn</u> or <u>shuwang719@gmail.com</u>
+Email: <u>shu-wang20 [at] mails.tsinghua.edu.cn</u> or <u>shuwang719 [at] gmail.com</u>
 
 
 <br>
