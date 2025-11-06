@@ -78,7 +78,7 @@ Research
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">4.</div>
   <div>
-    刘天寒，<b>王澍</b>（通讯作者），沉没成本效应与在线学习表现，<b>世界经济</b>，2025，终审. <br>
+    刘天寒，<b>王澍</b>（通讯作者），沉没成本效应与在线学习表现，<b>世界经济</b>，2025，录用待刊. <br>
   </div>
 </div>
 
