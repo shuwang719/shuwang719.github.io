@@ -44,7 +44,7 @@ Research
   <div>
     When Experimental Economics Meets Large Language Models: Evidence-based Tactics, 2025. <br>
     <b>Wang, Shu</b>, 
-    <a href="https://transirius.github.io/" target="_blank" style="color: inherit; text-decoration: underline;">Zijun Yao</a>,
+    <a href="https://zijun-yao.github.io/" target="_blank" style="color: inherit; text-decoration: underline;">Zijun Yao</a>,
     Shuhuai Zhang, Jianuo Gai, 
     <a href="https://tracyxliu.com/" target="_blank" style="color: inherit; text-decoration: underline;">Tracy Xiao Liu</a>,
     <a href="https://zhongsongfa.weebly.com/" target="_blank" style="color: inherit; text-decoration: underline;">Songfa Zhong</a>. 
