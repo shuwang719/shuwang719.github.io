@@ -11,7 +11,6 @@ Welcome!
 ======
 I am a Ph.D candidate in economics at [School of Economics and Management](https://www.sem.tsinghua.edu.cn/en/){:target="_blank"}, [Tsinghua University](https://www.tsinghua.edu.cn/en/){:target="_blank"}. My research interests include experimental economics, behavioral economics and digital Economy (AI). <span style="display:block; margin-bottom:0.5em;"></span>
 You can download my CV [here](https://shuwang719.github.io/docs/Shu%20Wang-CV.pdf){:target="_blank"}. <span style="display:block; margin-bottom:0.5em;"></span>
-I am on the 2025-26 job market. <span style="display:block; margin-bottom:0.5em;"></span>
 Email: <u>shu-wang20 [at] mails.tsinghua.edu.cn</u> or <u>shuwang719 [at] gmail.com</u>
 
 
@@ -131,6 +130,8 @@ Professional Activities
 
 <!--
 ---------------------------------------------------------------------------------------------------------------------------
+I am on the 2025-26 job market. <span style="display:block; margin-bottom:0.5em;"></span>
+
 1. Chen, Mingshi, Tracy Xiao Liu, You Shan, **Shu Wang**, Songfa Zhong, Yanju Zhou, "How General Are Measures of Choice Consistency? Evidence from Experimental and Scanner Data", 2025. [[arxiv]](https://arxiv.org/abs/2505.05275){:target="_blank"}
 2. **Wang, Shu**, Zijun Yao, Shuhuai Zhang, Jianuo Gai, Tracy Xiao Liu, Songfa ZHong, "When Experimental Economics Meets Large Language Models: Evidence-based Tactics", 2025. [[arxiv]](https://arxiv.org/abs/2505.21371){:target="_blank"}
 3. Kong, Yuqing, **Shu Wang**, Ying Wang, "The Surprising Benefits of Base Rate Neglect in Robust Aggregation", 2024. [[arxiv]](https://arxiv.org/abs/2406.13490){:target="_blank"}  
