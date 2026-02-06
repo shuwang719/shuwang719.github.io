@@ -79,7 +79,7 @@ Research
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">3.</div>
   <div>
-    刘天寒，<b>王澍</b>（通讯作者），沉没成本效应与在线学习表现，<b>世界经济</b>，2026. [<a href="https://sjjj.magtech.com.cn/CN/Y2026/V49/I2/195" target="_blank"Publisher</a>]<br>
+    刘天寒，<b>王澍</b>（通讯作者），沉没成本效应与在线学习表现，<b>世界经济</b>，2026. [<a href="https://sjjj.magtech.com.cn/CN/Y2026/V49/I2/195" target="_blank">Publisher</a>]<br>
   </div>
 </div>
 
