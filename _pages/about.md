@@ -59,10 +59,9 @@ Research
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">3.</div>
   <div>
-    The Surprising Benefits of Base Rate Neglect in Robust Aggregation, June 2024. <br>
+    <a href="https://arxiv.org/abs/2406.13490" target="_blank">The Surprising Benefits of Base Rate Neglect in Robust Aggregation</a>, June 2024. <br>
     <a href="https://cfcs.pku.edu.cn/yuqkong/" target="_blank" style="color: inherit; text-decoration: underline;">Kong, Yuqing</a>,
-    <b>Shu Wang</b>, Ying Wang.
-    [<a href="https://arxiv.org/abs/2406.13490" target="_blank">arXiv</a>] 
+    <b>Shu Wang</b>, Ying Wang. 
     [<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display=(this.nextElementSibling.style.display==='none'?'block':'none');" style="text-decoration: underline; cursor: pointer;">Abstract</a>]
       <div style="display: none; margin-top: 0.5em; padding: 0.5em; border-left: 3px solid #aaa; background: #f9f9f9; text-align: justify;">
         Robust aggregation integrates predictions from multiple experts without knowledge of experts' information structures. Prior work assumes experts are Bayesian, providing predictions as perfect posteriors based on their signals. However, real-world experts often deviate systematically from Bayesian reasoning. Our work considers experts who tend to ignore the base rate and reveals that a certain degree of base rate neglect helps robust forecast aggregation. Specifically, we consider a two-expert forecast aggregation problem with a binary world state. Experts exhibit base rate neglect, incorporating the base rate information to degree \( \lambda \in [0,1] \). Aggregators' performance is measured by the worst-case regret, which is the maximum regret across the set of considered information structures compared to an omniscient benchmark. Our results reveal the surprising V-shape of regret as a function of experts' base rate consideration degree \( \lambda \), meaning that predictions with intermediate base rate neglect can counter-intuitively lead to better aggregated predictions than perfect Bayesian posteriors.
