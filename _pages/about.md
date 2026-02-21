@@ -91,14 +91,14 @@ Research
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">3.</div>
   <div>
-    刘天寒，<b>王澍</b>（通讯作者），沉没成本效应与在线学习表现，<b>世界经济</b>，2026. [<a href="https://sjjj.magtech.com.cn/CN/Y2026/V49/I2/195" target="_blank">Publisher</a>]<br>
+    刘天寒，<b>王澍</b>（通讯作者），<a href="https://sjjj.magtech.com.cn/CN/Y2026/V49/I2/195" target="_blank">沉没成本效应与在线学习表现</a>，<b>世界经济</b>，2026. <br>
   </div>
 </div>
 
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">2.</div>
   <div>
-    <a href="https://economics.nankai.edu.cn/2019/1006/c16878a208301/page.htm" target="_blank" style="color: inherit; text-decoration: underline;">毛其淋</a>，<b>王澍</b>，外资并购对中国企业产能利用率的影响，<b>国际贸易问题</b>，2022. [<a href="https://shuwang719.github.io/docs/2022%E5%9B%BD%E9%99%85%E8%B4%B8%E6%98%93%E9%97%AE%E9%A2%98.pdf" target="_blank">PDF</a>]<br>
+    <a href="https://economics.nankai.edu.cn/2019/1006/c16878a208301/page.htm" target="_blank" style="color: inherit; text-decoration: underline;">毛其淋</a>，<b>王澍</b>，<a href="https://shuwang719.github.io/docs/2022%E5%9B%BD%E9%99%85%E8%B4%B8%E6%98%93%E9%97%AE%E9%A2%98.pdf" target="_blank">外资并购对中国企业产能利用率的影响</a>，<b>国际贸易问题</b>，2022. <br>
   </div>
 </div>
 
