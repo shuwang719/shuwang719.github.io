@@ -98,21 +98,21 @@ Research
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">3.</div>
   <div>
-    刘天寒，<b>王澍</b>（通讯作者），<a href="https://sjjj.magtech.com.cn/CN/Y2026/V49/I2/195" target="_blank">沉没成本效应与在线学习表现</a>，<b>世界经济</b>，2026年第2期，195-220页.（封面文章） <br>
+    刘天寒，<b>王澍</b>（通讯作者），<a href="https://sjjj.magtech.com.cn/CN/Y2026/V49/I2/195" target="_blank">沉没成本效应与在线学习表现</a>，<b>世界经济</b>，2026年第2期: 195-220.（封面文章） <br>
   </div>
 </div>
 
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">2.</div>
   <div>
-    <a href="https://economics.nankai.edu.cn/2019/1006/c16878a208301/page.htm" target="_blank" style="color: inherit; text-decoration: underline;">毛其淋</a>，<b>王澍</b>，<a href="https://shuwang719.github.io/docs/2022%E5%9B%BD%E9%99%85%E8%B4%B8%E6%98%93%E9%97%AE%E9%A2%98.pdf" target="_blank">外资并购对中国企业产能利用率的影响</a>，<b>国际贸易问题</b>，2022年第1期，113-129页. <br>
+    <a href="https://economics.nankai.edu.cn/2019/1006/c16878a208301/page.htm" target="_blank" style="color: inherit; text-decoration: underline;">毛其淋</a>，<b>王澍</b>，<a href="https://shuwang719.github.io/docs/2022%E5%9B%BD%E9%99%85%E8%B4%B8%E6%98%93%E9%97%AE%E9%A2%98.pdf" target="_blank">外资并购对中国企业产能利用率的影响</a>，<b>国际贸易问题</b>，2022年第1期: 113-129. <br>
   </div>
 </div>
 
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">1.</div>
   <div>
-    <a href="https://economics.nankai.edu.cn/2019/1006/c16878a208301/page.htm" target="_blank" style="color: inherit; text-decoration: underline;">毛其淋</a>，<b>王澍</b>，<a href="https://shuwang719.github.io/docs/2019%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E%E7%A0%94%E7%A9%B6.pdf" target="_blank">地方金融自由化如何影响中国企业出口?: 以城市商业银行发展为例</a>，<b>世界经济研究</b>，2019年第8期，11-29页.（封面文章） <br>
+    <a href="https://economics.nankai.edu.cn/2019/1006/c16878a208301/page.htm" target="_blank" style="color: inherit; text-decoration: underline;">毛其淋</a>，<b>王澍</b>，<a href="https://shuwang719.github.io/docs/2019%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E%E7%A0%94%E7%A9%B6.pdf" target="_blank">地方金融自由化如何影响中国企业出口?: 以城市商业银行发展为例</a>，<b>世界经济研究</b>，2019年第8期: 11-29.（封面文章） <br>
   </div>
 </div>
 
