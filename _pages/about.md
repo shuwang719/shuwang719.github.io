@@ -79,7 +79,7 @@ Research
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">4.</div>
   <div>
-    Association Between Physician Communication Features and Patient Outcomes in Telemedicine: A Cross-Sectional Study. Accepted at <b><i>Journal of Medical Internet Research</i>i></b>, 2026. <br>
+    Association Between Physician Communication Features and Patient Outcomes in Telemedicine: A Cross-Sectional Study. Accepted at <b><i>Journal of Medical Internet Research</i></b>, Feb 2026. <br>
     Wang, Yipei, <b>Shu Wang (Co-first author)</b>, Ke Zhang, Zhijie Liu, Qingbian Ma, Hong Ji, Zheng Hou, 
     <a href="https://tracyxliu.com/" target="_blank" style="color: inherit; text-decoration: underline;">Tracy Xiao Liu</a>,
     Xuedong Xu, Xinxia Wu, Changxiao Jin. 
