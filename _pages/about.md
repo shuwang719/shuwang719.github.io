@@ -105,7 +105,7 @@ Research
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">1.</div>
   <div>
-    <a href="https://economics.nankai.edu.cn/2019/1006/c16878a208301/page.htm" target="_blank" style="color: inherit; text-decoration: underline;">毛其淋</a>，<b>王澍</b>，地方金融自由化如何影响中国企业出口?: 以城市商业银行发展为例，<b>世界经济研究</b>，2019. [<a href="https://shuwang719.github.io/docs/2019%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E%E7%A0%94%E7%A9%B6.pdf" target="_blank">PDF</a>] <br>
+    <a href="https://economics.nankai.edu.cn/2019/1006/c16878a208301/page.htm" target="_blank" style="color: inherit; text-decoration: underline;">毛其淋</a>，<b>王澍</b>，<a href="https://shuwang719.github.io/docs/2019%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E%E7%A0%94%E7%A9%B6.pdf" target="_blank">地方金融自由化如何影响中国企业出口?: 以城市商业银行发展为例</a>，<b>世界经济研究</b>，2019. <br>
   </div>
 </div>
 
