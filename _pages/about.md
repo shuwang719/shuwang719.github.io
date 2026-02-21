@@ -76,6 +76,20 @@ Research
   </div>
 </div>
 
+<div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
+  <div style="width: 2em; flex-shrink: 0;">3.</div>
+  <div>
+    Association Between Physician Communication Features and Patient Outcomes in Telemedicine: A Cross-Sectional Study <br>
+    Wang, Yipei, <b>Shu Wang (Co-first author)</b>, Ke Zhang, Zhijie Liu, Qingbian Ma, Hong Ji, Zheng Hou, 
+    <a href="https://tracyxliu.com/" target="_blank" style="color: inherit; text-decoration: underline;">Tracy Xiao Liu</a>,
+    Xuedong Xu, Xinxia Wu, Changxiao Jin. <b>_Journal of Medical Internet Research_</b>, 2026.
+  </div>
+</div>
+
+Ke Zhang2,4*, MD; Zhijie Liu5; Qingbian Ma6, MD; Hong Ji7, MS;
+Zheng Hou2,8, MD; Tracy Xiao Liu3, PhD; Xuedong Xu9, MBA; Xinxia Wu2, MS; Changxiao Jin1, MS
+
+
 ### Publications in Chinese
 
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
