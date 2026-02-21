@@ -79,7 +79,7 @@ Research
     Association Between Physician Communication Features and Patient Outcomes in Telemedicine: A Cross-Sectional Study, Feb 2026. <br>
     Wang, Yipei, <b>Shu Wang (Co-first author)</b>, Ke Zhang, Zhijie Liu, Qingbian Ma, Hong Ji, Zheng Hou, 
     <a href="https://tracyxliu.com/" target="_blank" style="color: inherit; text-decoration: underline;">Tracy Xiao Liu</a>,
-    Xuedong Xu, Xinxia Wu, Changxiao Jin. Accepted at <b><i>Journal of Medical Internet Research</i></b>
+    Xuedong Xu, Xinxia Wu, Changxiao Jin. Accepted at <b><i>Journal of Medical Internet Research</i></b>.
     [<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display=(this.nextElementSibling.style.display==='none'?'block':'none');" style="text-decoration: underline; cursor: pointer;">Abstract</a>]
     <div style="display: none; margin-top: 0.5em; padding: 0.5em; border-left: 3px solid #aaa; background: #f9f9f9; text-align: justify;">
 <b>Background</b>: Asynchronous telemedicine is a crucial component of multi-channel healthcare where effective communication drives satisfaction. However, communication feature effectiveness remains poorly understood. Prior research relied on subjective surveys or small-scale simulations, failing to link features to objective outcomes. Understanding these features is critical for optimizing physician engagement and establishing quality indicators to enhance patient experience. <br>
