@@ -20,9 +20,25 @@ Research
 ======
 ### Working Papers
 
+<div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
+  <div style="width: 2em; flex-shrink: 0;">4.</div>
+  <div>
+    <a href="https://arxiv.org/abs/2604.19260" target="_blank">Understanding the Mechanism of Altruism in Large Language Models</a>, Apr 2026. <br>
+    Zhang, Shuhuai, <b>Shu Wang</b>, 
+    <a href="https://zijun-yao.github.io/" target="_blank" style="color: inherit; text-decoration: underline;">Zijun Yao</a>,
+    <a href="https://www.chuanhao-li.com/" target="_blank" style="color: inherit; text-decoration: underline;">Chuanhao Li</a>,
+    <a href="https://bakser.github.io/" target="_blank" style="color: inherit; text-decoration: underline;">Xiaozhi Wang</a>,
+    <a href="https://zhongsongfa.weebly.com/" target="_blank" style="color: inherit; text-decoration: underline;">Songfa Zhong</a>,
+    <a href="https://tracyxliu.com/" target="_blank" style="color: inherit; text-decoration: underline;">Tracy Xiao Liu</a>. 
+  [<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display=(this.nextElementSibling.style.display==='none'?'block':'none');" style="text-decoration: underline; cursor: pointer;">Abstract</a>]
+      <div style="display: none; margin-top: 0.5em; padding: 0.5em; border-left: 3px solid #aaa; background: #f9f9f9; text-align: justify;">
+        Altruism is fundamental to human societies, fostering cooperation and social cohesion. Recent studies suggest that large language models (LLMs) can display human-like prosocial behavior, but the internal computations that produce such behavior remain poorly understood. We investigate the mechanisms underlying LLM altruism using sparse autoencoders (SAEs). In a standard Dictator Game, minimal-pair prompts that differ only in social stance (generous versus selfish) induce large, economically meaningful shifts in allocations. Leveraging this contrast, we identify a set of SAE features (0.024% of all features across the model's layers) whose activations are strongly associated with the behavioral shift. To interpret these features, we use benchmark tasks motivated by dual-process theories to classify a subset as primarily heuristic (System 1) or primarily deliberative (System 2). Causal interventions validate their functional role: activation patching and continuous steering of this feature direction reliably shift allocation distributions, with System 2 features exerting a more proximal influence on the model's final output than System 1 features. The same steering direction generalizes across multiple social-preference games. Together, these results enhance our understanding of artificial cognition by translating altruistic behaviors into identifiable network states and provide a framework for aligning LLM behavior with human values, thereby informing more transparent and value-aligned deployment.
+      </div>
+  </div>
+</div>
 
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
-  <div style="width: 2em; flex-shrink: 0;">1.</div>
+  <div style="width: 2em; flex-shrink: 0;">3.</div>
   <div>
     <a href="https://shuwang719.github.io/docs/method.pdf" target="_blank">When Experimental Economics Meets Large Language Models: Evidence-based Tactics</a>, Oct. 2025. <br>
     <b>Wang, Shu</b>, 
@@ -57,7 +73,7 @@ Research
 
 
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
-  <div style="width: 2em; flex-shrink: 0;">3.</div>
+  <div style="width: 2em; flex-shrink: 0;">1.</div>
   <div>
     <a href="https://arxiv.org/abs/2406.13490" target="_blank">The Surprising Benefits of Base Rate Neglect in Robust Aggregation</a>, June 2024. <br>
     <a href="https://cfcs.pku.edu.cn/yuqkong/" target="_blank" style="color: inherit; text-decoration: underline;">Kong, Yuqing</a>,
