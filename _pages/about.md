@@ -23,7 +23,7 @@ Research
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">4.</div>
   <div>
-    <a href="https://arxiv.org/abs/2604.19260" target="_blank">Understanding the Mechanism of Altruism in Large Language Models</a>, Apr 2026. <br>
+    <a href="https://arxiv.org/abs/2604.19260" target="_blank">Understanding the Mechanism of Altruism in Large Language Models</a>, Apr. 2026. <br>
     Zhang, Shuhuai, <b>Shu Wang</b>, 
     <a href="https://zijun-yao.github.io/" target="_blank" style="color: inherit; text-decoration: underline;">Zijun Yao</a>,
     <a href="https://www.chuanhao-li.com/" target="_blank" style="color: inherit; text-decoration: underline;">Chuanhao Li</a>,
