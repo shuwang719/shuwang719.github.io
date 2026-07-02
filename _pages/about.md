@@ -11,7 +11,7 @@ Welcome!
 ======
 I am a Ph.D candidate in economics at [School of Economics and Management](https://www.sem.tsinghua.edu.cn/en/){:target="_blank"}, [Tsinghua University](https://www.tsinghua.edu.cn/en/){:target="_blank"}. My research interests include experimental economics, behavioral economics, digital Economy (AI), and health economics. <span style="display:block; margin-bottom:0.5em;"></span>
 You can download my CV [here](https://shuwang719.github.io/docs/ShuWang-CV.pdf){:target="_blank"}. <span style="display:block; margin-bottom:0.5em;"></span>
-Email: <u>shuwang719 [at] gmail.com</u>
+Email: shuwang719 [at] gmail.com
 
 
 <br>
@@ -23,7 +23,7 @@ Research
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">4.</div>
   <div>
-    <a href="https://arxiv.org/abs/2604.19260" target="_blank">Understanding the Mechanism of Altruism in Large Language Models</a>, Apr. 2026. <br>
+    <a href="https://arxiv.org/abs/2604.19260" target="_blank" style="color: inherit; text-decoration: underline;>Understanding the Mechanism of Altruism in Large Language Models</a>, Apr. 2026. <br>
     Zhang, Shuhuai, <b>Shu Wang</b>, 
     <a href="https://zijun-yao.github.io/" target="_blank" style="color: inherit; text-decoration: underline;">Zijun Yao</a>,
     <a href="https://www.chuanhao-li.com/" target="_blank" style="color: inherit; text-decoration: underline;">Chuanhao Li</a>,
