@@ -25,11 +25,11 @@ Research
   <div>
     <a href="https://arxiv.org/abs/2604.19260" target="_blank" style="color: inherit; text-decoration: none;">Understanding the Mechanism of Altruism in Large Language Models</a>, Apr. 2026. <br>
     Zhang, Shuhuai, <b>Shu Wang</b>, 
-    <a href="https://zijun-yao.github.io/" target="_blank" style="color: inherit;">Zijun Yao</a>,
-    <a href="https://www.chuanhao-li.com/" target="_blank" style="color: inherit;">Chuanhao Li</a>,
-    <a href="https://bakser.github.io/" target="_blank" style="color: inherit;">Xiaozhi Wang</a>,
-    <a href="https://zhongsongfa.weebly.com/" target="_blank" style="color: inherit;">Songfa Zhong</a>,
-    <a href="https://tracyxliu.com/" target="_blank" style="color: inherit;">Tracy Xiao Liu</a>. 
+    <a href="https://zijun-yao.github.io/" target="_blank" style="color: inherit; text-decoration: none;">Zijun Yao</a>,
+    <a href="https://www.chuanhao-li.com/" target="_blank" style="color: inherit; text-decoration: none;">Chuanhao Li</a>,
+    <a href="https://bakser.github.io/" target="_blank" style="color: inherit; text-decoration: none;">Xiaozhi Wang</a>,
+    <a href="https://zhongsongfa.weebly.com/" target="_blank" style="color: inherit; text-decoration: none;">Songfa Zhong</a>,
+    <a href="https://tracyxliu.com/" target="_blank" style="color: inherit; text-decoration: none;">Tracy Xiao Liu</a>. 
   [<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display=(this.nextElementSibling.style.display==='none'?'block':'none');" style="cursor: pointer;">Abstract</a>]
       <div style="display: none; margin-top: 0.5em; padding: 0.5em; border-left: 3px solid #aaa; background: #f9f9f9; text-align: justify;">
         Altruism is fundamental to human societies, fostering cooperation and social cohesion. Recent studies suggest that large language models (LLMs) can display human-like prosocial behavior, but the internal computations that produce such behavior remain poorly understood. We investigate the mechanisms underlying LLM altruism using sparse autoencoders (SAEs). In a standard Dictator Game, minimal-pair prompts that differ only in social stance (generous versus selfish) induce large, economically meaningful shifts in allocations. Leveraging this contrast, we identify a set of SAE features (0.024% of all features across the model's layers) whose activations are strongly associated with the behavioral shift. To interpret these features, we use benchmark tasks motivated by dual-process theories to classify a subset as primarily heuristic (System 1) or primarily deliberative (System 2). Causal interventions validate their functional role: activation patching and continuous steering of this feature direction reliably shift allocation distributions, with System 2 features exerting a more proximal influence on the model's final output than System 1 features. The same steering direction generalizes across multiple social-preference games. Together, these results enhance our understanding of artificial cognition by translating altruistic behaviors into identifiable network states and provide a framework for aligning LLM behavior with human values, thereby informing more transparent and value-aligned deployment.
@@ -40,12 +40,12 @@ Research
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">3.</div>
   <div>
-    <a href="https://shuwang719.github.io/docs/method.pdf" target="_blank" style="color: inherit;">When Experimental Economics Meets Large Language Models: Evidence-based Tactics</a>, Oct. 2025. <br>
+    <a href="https://shuwang719.github.io/docs/method.pdf" target="_blank" style="color: inherit; text-decoration: none;">When Experimental Economics Meets Large Language Models: Evidence-based Tactics</a>, Oct. 2025. <br>
     <b>Wang, Shu</b>, 
-    <a href="https://zijun-yao.github.io/" target="_blank" style="color: inherit;">Zijun Yao</a>,
+    <a href="https://zijun-yao.github.io/" target="_blank" style="color: inherit; text-decoration: none;">Zijun Yao</a>,
     Shuhuai Zhang, Jianuo Gai, 
-    <a href="https://tracyxliu.com/" target="_blank" style="color: inherit;">Tracy Xiao Liu</a>,
-    <a href="https://zhongsongfa.weebly.com/" target="_blank" style="color: inherit;">Songfa Zhong</a>. 
+    <a href="https://tracyxliu.com/" target="_blank" style="color: inherit; text-decoration: none;">Tracy Xiao Liu</a>,
+    <a href="https://zhongsongfa.weebly.com/" target="_blank" style="color: inherit; text-decoration: none;">Songfa Zhong</a>. 
     [<a href="https://arxiv.org/abs/2505.21371" target="_blank">arXiv</a>] 
   [<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display=(this.nextElementSibling.style.display==='none'?'block':'none');" style=" cursor: pointer;">Abstract</a>]
       <div style="display: none; margin-top: 0.5em; padding: 0.5em; border-left: 3px solid #aaa; background: #f9f9f9; text-align: justify;">
@@ -57,12 +57,12 @@ Research
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">2.</div>
   <div>
-    <a href="https://arxiv.org/abs/2505.05275" target="_blank" style="color: inherit;">How General Are Measures of Choice Consistency? Evidence from Experimental and Scanner Data</a>, Sep. 2025. <br>
+    <a href="https://arxiv.org/abs/2505.05275" target="_blank" style="color: inherit; text-decoration: none;">How General Are Measures of Choice Consistency? Evidence from Experimental and Scanner Data</a>, Sep. 2025. <br>
     Chen, Mingshi, 
-    <a href="https://tracyxliu.com/" target="_blank" style="color: inherit;">Tracy Xiao Liu</a>,
-    <a href="https://shanyouleo.github.io/" target="_blank" style="color: inherit;">You Shan</a>,
+    <a href="https://tracyxliu.com/" target="_blank" style="color: inherit; text-decoration: none;">Tracy Xiao Liu</a>,
+    <a href="https://shanyouleo.github.io/" target="_blank" style="color: inherit; text-decoration: none;">You Shan</a>,
     <b>Shu Wang</b>, 
-    <a href="https://zhongsongfa.weebly.com/" target="_blank" style="color: inherit;">Songfa Zhong</a>,
+    <a href="https://zhongsongfa.weebly.com/" target="_blank" style="color: inherit; text-decoration: none;">Songfa Zhong</a>,
     Yanju Zhou. 
       [<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display=(this.nextElementSibling.style.display==='none'?'block':'none');" style="cursor: pointer;">Abstract</a>]
       <div style="display: none; margin-top: 0.5em; padding: 0.5em; border-left: 3px solid #aaa; background: #f9f9f9; text-align: justify;">
@@ -75,9 +75,9 @@ Research
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">1.</div>
   <div>
-    <a href="https://arxiv.org/abs/2406.13490" target="_blank" style="color: inherit;">The Surprising Benefits of Base Rate Neglect in Robust Aggregation</a>, June 2024. <br>
-    <a href="https://cfcs.pku.edu.cn/yuqkong/" target="_blank" style="color: inherit;">Kong, Yuqing</a>,
-    <b>Shu Wang</b>, <a href="https://none44353.github.io/" target="_blank" style="color: inherit;">Ying Wang</a>. 
+    <a href="https://arxiv.org/abs/2406.13490" target="_blank" style="color: inherit; text-decoration: none;">The Surprising Benefits of Base Rate Neglect in Robust Aggregation</a>, June 2024. <br>
+    <a href="https://cfcs.pku.edu.cn/yuqkong/" target="_blank" style="color: inherit; text-decoration: none;">Kong, Yuqing</a>,
+    <b>Shu Wang</b>, <a href="https://none44353.github.io/" target="_blank" style="color: inherit; text-decoration: none;">Ying Wang</a>. 
     [<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display=(this.nextElementSibling.style.display==='none'?'block':'none');" style="cursor: pointer;">Abstract</a>]
       <div style="display: none; margin-top: 0.5em; padding: 0.5em; border-left: 3px solid #aaa; background: #f9f9f9; text-align: justify;">
         Robust aggregation integrates predictions from multiple experts without knowledge of experts' information structures. Prior work assumes experts are Bayesian, providing predictions as perfect posteriors based on their signals. However, real-world experts often deviate systematically from Bayesian reasoning. Our work considers experts who tend to ignore the base rate and reveals that a certain degree of base rate neglect helps robust forecast aggregation. Specifically, we consider a two-expert forecast aggregation problem with a binary world state. Experts exhibit base rate neglect, incorporating the base rate information to degree \( \lambda \in [0,1] \). Aggregators' performance is measured by the worst-case regret, which is the maximum regret across the set of considered information structures compared to an omniscient benchmark. Our results reveal the surprising V-shape of regret as a function of experts' base rate consideration degree \( \lambda \), meaning that predictions with intermediate base rate neglect can counter-intuitively lead to better aggregated predictions than perfect Bayesian posteriors.
@@ -97,8 +97,8 @@ Research
   <div style="width: 2em; flex-shrink: 0;">1.</div>
   <div>
     Wang, Yipei, <b>Shu Wang (Co-first author)</b>, Ke Zhang, Zhijie Liu, Qingbian Ma, Hong Ji, Zheng Hou, 
-    <a href="https://tracyxliu.com/" target="_blank" style="color: inherit;">Tracy Xiao Liu</a>,
-    Xuedong Xu, Xinxia Wu, Changxiao Jin, <a href="https://shuwang719.github.io/docs/2026-JMIR.pdf" target="_blank" style="color: inherit;">Association Between Physician Communication Features and Patient Outcomes in Telemedicine: Retrospective Cross-Sectional Observational Study</a>, <b><i>Journal of Medical Internet Research</i></b>, 2026, 28, e86977. [<a href="https://www.jmir.org/2026/1/e86977" target="_blank">Publisher</a>]
+    <a href="https://tracyxliu.com/" target="_blank" style="color: inherit; text-decoration: none;">Tracy Xiao Liu</a>,
+    Xuedong Xu, Xinxia Wu, Changxiao Jin, <a href="https://shuwang719.github.io/docs/2026-JMIR.pdf" target="_blank" style="color: inherit; text-decoration: none;">Association Between Physician Communication Features and Patient Outcomes in Telemedicine: Retrospective Cross-Sectional Observational Study</a>, <b><i>Journal of Medical Internet Research</i></b>, 2026, 28, e86977. [<a href="https://www.jmir.org/2026/1/e86977" target="_blank">Publisher</a>]
     [<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display=(this.nextElementSibling.style.display==='none'?'block':'none');" style="text-decoration: underline; cursor: pointer;">Abstract</a>]
     <div style="display: none; margin-top: 0.5em; padding: 0.5em; border-left: 3px solid #aaa; background: #f9f9f9; text-align: justify;">
 <b>Background</b>: Asynchronous telemedicine is a crucial component of multichannel health care, where effective communication drives satisfaction. However, the effectiveness of communication features remains poorly understood. Prior research relied on subjective surveys or small-scale simulations, failing to link features to objective outcomes. Understanding these features is critical for optimizing physician engagement and establishing quality indicators to enhance the patient experience. <br>
@@ -115,21 +115,21 @@ Research
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">3.</div>
   <div>
-    刘天寒，<b>王澍</b>（通讯作者），<a href="https://sjjj.magtech.com.cn/CN/Y2026/V49/I2/195" target="_blank" style="color: inherit;">沉没成本效应与在线学习表现</a>，<b>世界经济</b>，2026年第2期: 195-220.（封面文章） <br>
+    刘天寒，<b>王澍</b>（通讯作者），<a href="https://sjjj.magtech.com.cn/CN/Y2026/V49/I2/195" target="_blank" style="color: inherit; text-decoration: none;">沉没成本效应与在线学习表现</a>，<b>世界经济</b>，2026年第2期: 195-220.（封面文章） <br>
   </div>
 </div>
 
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">2.</div>
   <div>
-    <a href="https://economics.nankai.edu.cn/2019/1006/c16878a208301/page.htm" target="_blank" style="color: inherit">毛其淋</a>，<b>王澍</b>，<a href="https://shuwang719.github.io/docs/2022%E5%9B%BD%E9%99%85%E8%B4%B8%E6%98%93%E9%97%AE%E9%A2%98.pdf" target="_blank" style="color: inherit;">外资并购对中国企业产能利用率的影响</a>，<b>国际贸易问题</b>，2022年第1期: 113-129. <br>
+    <a href="https://economics.nankai.edu.cn/2019/1006/c16878a208301/page.htm" target="_blank" style="color: inherit; text-decoration: none;">毛其淋</a>，<b>王澍</b>，<a href="https://shuwang719.github.io/docs/2022%E5%9B%BD%E9%99%85%E8%B4%B8%E6%98%93%E9%97%AE%E9%A2%98.pdf" target="_blank" style="color: inherit; text-decoration: none;">外资并购对中国企业产能利用率的影响</a>，<b>国际贸易问题</b>，2022年第1期: 113-129. <br>
   </div>
 </div>
 
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">1.</div>
   <div>
-    <a href="https://economics.nankai.edu.cn/2019/1006/c16878a208301/page.htm" target="_blank" style="color: inherit;">毛其淋</a>，<b>王澍</b>，<a href="https://shuwang719.github.io/docs/2019%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E%E7%A0%94%E7%A9%B6.pdf" target="_blank" style="color: inherit;">地方金融自由化如何影响中国企业出口?: 以城市商业银行发展为例</a>，<b>世界经济研究</b>，2019年第8期: 11-29.（封面文章） <br>
+    <a href="https://economics.nankai.edu.cn/2019/1006/c16878a208301/page.htm" target="_blank" style="color: inherit; text-decoration: none;">毛其淋</a>，<b>王澍</b>，<a href="https://shuwang719.github.io/docs/2019%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E%E7%A0%94%E7%A9%B6.pdf" target="_blank" style="color: inherit; text-decoration: none;">地方金融自由化如何影响中国企业出口?: 以城市商业银行发展为例</a>，<b>世界经济研究</b>，2019年第8期: 11-29.（封面文章） <br>
   </div>
 </div>
 
