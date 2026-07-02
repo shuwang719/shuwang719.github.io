@@ -9,8 +9,8 @@ redirect_from:
 
 Welcome!
 ======
-​​I received my Ph.D. in economics from [Tsinghua University](https://www.tsinghua.edu.cn/en/){:target="_blank"} in 2026. My research interests include experimental economics, behavioral economics, digital Economy (AI), and health economics. <span style="display:block; margin-bottom:0.5em;"></span>
-You can download my CV [here](https://shuwang719.github.io/docs/ShuWang-CV.pdf){:target="_blank"}. <span style="display:block; margin-bottom:0.5em;"></span>
+​​I received my Ph.D. in economics from <a href="https://www.tsinghua.edu.cn/en/" target="_blank" style="color: inherit; text-decoration: underline;">Tsinghua University</a> in 2026. My research interests include experimental economics, behavioral economics, digital Economy (AI), and health economics. <span style="display:block; margin-bottom:0.5em;"></span>
+You can download my CV <a href="https://shuwang719.github.io/docs/ShuWang-CV.pdf" target="_blank" style="color: inherit; text-decoration: underline;">here</a>. <span style="display:block; margin-bottom:0.5em;"></span>
 Email: shuwang719 [at] gmail.com
 
 
