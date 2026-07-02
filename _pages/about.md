@@ -98,7 +98,7 @@ Research
   <div>
     Wang, Yipei, <b>Shu Wang (Co-first author)</b>, Ke Zhang, Zhijie Liu, Qingbian Ma, Hong Ji, Zheng Hou, 
     <a href="https://tracyxliu.com/" target="_blank" style="color: inherit; text-decoration: underline;">Tracy Xiao Liu</a>,
-    Xuedong Xu, Xinxia Wu, Changxiao Jin, <a href="https://shuwang719.github.io/docs/2026-JMIR.pdf" target="_blank">Association Between Physician Communication Features and Patient Outcomes in Telemedicine: Retrospective Cross-Sectional Observational Study</a>, <b><i>Journal of Medical Internet Research</i></b>, 2026, 28, e86977. [<a href="https://www.jmir.org/2026/1/e86977" target="_blank">Publisher</a>]
+    Xuedong Xu, Xinxia Wu, Changxiao Jin, <a href="https://shuwang719.github.io/docs/2026-JMIR.pdf" target="_blank" style="color: inherit; text-decoration: underline;>Association Between Physician Communication Features and Patient Outcomes in Telemedicine: Retrospective Cross-Sectional Observational Study</a>, <b><i>Journal of Medical Internet Research</i></b>, 2026, 28, e86977. [<a href="https://www.jmir.org/2026/1/e86977" target="_blank">Publisher</a>]
     [<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display=(this.nextElementSibling.style.display==='none'?'block':'none');" style="text-decoration: underline; cursor: pointer;">Abstract</a>]
     <div style="display: none; margin-top: 0.5em; padding: 0.5em; border-left: 3px solid #aaa; background: #f9f9f9; text-align: justify;">
 <b>Background</b>: Asynchronous telemedicine is a crucial component of multichannel health care, where effective communication drives satisfaction. However, the effectiveness of communication features remains poorly understood. Prior research relied on subjective surveys or small-scale simulations, failing to link features to objective outcomes. Understanding these features is critical for optimizing physician engagement and establishing quality indicators to enhance the patient experience. <br>
@@ -115,21 +115,21 @@ Research
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">3.</div>
   <div>
-    刘天寒，<b>王澍</b>（通讯作者），<a href="https://sjjj.magtech.com.cn/CN/Y2026/V49/I2/195" target="_blank">沉没成本效应与在线学习表现</a>，<b>世界经济</b>，2026年第2期: 195-220.（封面文章） <br>
+    刘天寒，<b>王澍</b>（通讯作者），<a href="https://sjjj.magtech.com.cn/CN/Y2026/V49/I2/195" target="_blank" style="color: inherit; text-decoration: underline;>沉没成本效应与在线学习表现</a>，<b>世界经济</b>，2026年第2期: 195-220.（封面文章） <br>
   </div>
 </div>
 
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">2.</div>
   <div>
-    <a href="https://economics.nankai.edu.cn/2019/1006/c16878a208301/page.htm" target="_blank" style="color: inherit; text-decoration: underline;">毛其淋</a>，<b>王澍</b>，<a href="https://shuwang719.github.io/docs/2022%E5%9B%BD%E9%99%85%E8%B4%B8%E6%98%93%E9%97%AE%E9%A2%98.pdf" target="_blank">外资并购对中国企业产能利用率的影响</a>，<b>国际贸易问题</b>，2022年第1期: 113-129. <br>
+    <a href="https://economics.nankai.edu.cn/2019/1006/c16878a208301/page.htm" target="_blank" style="color: inherit; text-decoration: underline;">毛其淋</a>，<b>王澍</b>，<a href="https://shuwang719.github.io/docs/2022%E5%9B%BD%E9%99%85%E8%B4%B8%E6%98%93%E9%97%AE%E9%A2%98.pdf" target="_blank" style="color: inherit; text-decoration: underline;>外资并购对中国企业产能利用率的影响</a>，<b>国际贸易问题</b>，2022年第1期: 113-129. <br>
   </div>
 </div>
 
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">1.</div>
   <div>
-    <a href="https://economics.nankai.edu.cn/2019/1006/c16878a208301/page.htm" target="_blank" style="color: inherit; text-decoration: underline;">毛其淋</a>，<b>王澍</b>，<a href="https://shuwang719.github.io/docs/2019%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E%E7%A0%94%E7%A9%B6.pdf" target="_blank">地方金融自由化如何影响中国企业出口?: 以城市商业银行发展为例</a>，<b>世界经济研究</b>，2019年第8期: 11-29.（封面文章） <br>
+    <a href="https://economics.nankai.edu.cn/2019/1006/c16878a208301/page.htm" target="_blank" style="color: inherit; text-decoration: underline;">毛其淋</a>，<b>王澍</b>，<a href="https://shuwang719.github.io/docs/2019%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E%E7%A0%94%E7%A9%B6.pdf" target="_blank" style="color: inherit; text-decoration: underline;>地方金融自由化如何影响中国企业出口?: 以城市商业银行发展为例</a>，<b>世界经济研究</b>，2019年第8期: 11-29.（封面文章） <br>
   </div>
 </div>
 
