@@ -149,7 +149,7 @@ Teaching
 Professional Activities
 ======
 ### Referee
-*Journal of Economic Behavior & Organization*, *Journal of Behavioral and Experimental Economics*
+*Management Science*, *Journal of Economic Behavior & Organization*, *Journal of Behavioral and Experimental Economics*
 
 
 
