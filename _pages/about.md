@@ -30,7 +30,7 @@ Research
     <a href="https://bakser.github.io/" target="_blank" style="color: inherit;">Xiaozhi Wang</a>,
     <a href="https://zhongsongfa.weebly.com/" target="_blank" style="color: inherit;">Songfa Zhong</a>,
     <a href="https://tracyxliu.com/" target="_blank" style="color: inherit;">Tracy Xiao Liu</a>. 
-  [<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display=(this.nextElementSibling.style.display==='none'?'block':'none');" style="text-decoration: underline; cursor: pointer;">Abstract</a>]
+  [<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display=(this.nextElementSibling.style.display==='none'?'block':'none');" style="cursor: pointer;">Abstract</a>]
       <div style="display: none; margin-top: 0.5em; padding: 0.5em; border-left: 3px solid #aaa; background: #f9f9f9; text-align: justify;">
         Altruism is fundamental to human societies, fostering cooperation and social cohesion. Recent studies suggest that large language models (LLMs) can display human-like prosocial behavior, but the internal computations that produce such behavior remain poorly understood. We investigate the mechanisms underlying LLM altruism using sparse autoencoders (SAEs). In a standard Dictator Game, minimal-pair prompts that differ only in social stance (generous versus selfish) induce large, economically meaningful shifts in allocations. Leveraging this contrast, we identify a set of SAE features (0.024% of all features across the model's layers) whose activations are strongly associated with the behavioral shift. To interpret these features, we use benchmark tasks motivated by dual-process theories to classify a subset as primarily heuristic (System 1) or primarily deliberative (System 2). Causal interventions validate their functional role: activation patching and continuous steering of this feature direction reliably shift allocation distributions, with System 2 features exerting a more proximal influence on the model's final output than System 1 features. The same steering direction generalizes across multiple social-preference games. Together, these results enhance our understanding of artificial cognition by translating altruistic behaviors into identifiable network states and provide a framework for aligning LLM behavior with human values, thereby informing more transparent and value-aligned deployment.
       </div>
@@ -47,7 +47,7 @@ Research
     <a href="https://tracyxliu.com/" target="_blank" style="color: inherit;">Tracy Xiao Liu</a>,
     <a href="https://zhongsongfa.weebly.com/" target="_blank" style="color: inherit;">Songfa Zhong</a>. 
     [<a href="https://arxiv.org/abs/2505.21371" target="_blank">arXiv</a>] 
-  [<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display=(this.nextElementSibling.style.display==='none'?'block':'none');" style="text-decoration: underline; cursor: pointer;">Abstract</a>]
+  [<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display=(this.nextElementSibling.style.display==='none'?'block':'none');" style=" cursor: pointer;">Abstract</a>]
       <div style="display: none; margin-top: 0.5em; padding: 0.5em; border-left: 3px solid #aaa; background: #f9f9f9; text-align: justify;">
         Advancements in large language models (LLMs) have sparked a growing interest in measuring and understanding their behavior through experimental economics. However, there is still a lack of established guidelines for designing economic experiments for LLMs. Inspired by principles from experimental economics with insights from LLM research in artificial intelligence, we outline key considerations in the experimental design and implementation stage, and perform two sets of experiments to assess the impact of these considerations on LLMs' responses. Based on our findings, we discuss seven practical tactics for conducting experiments with LLMs. Our study enhances the design, replicability, and generalizability of LLM experiments, and broadens the scope of experimental economics in the digital age.
       </div>
@@ -64,7 +64,7 @@ Research
     <b>Shu Wang</b>, 
     <a href="https://zhongsongfa.weebly.com/" target="_blank" style="color: inherit;">Songfa Zhong</a>,
     Yanju Zhou. 
-      [<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display=(this.nextElementSibling.style.display==='none'?'block':'none');" style="text-decoration: underline; cursor: pointer;">Abstract</a>]
+      [<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display=(this.nextElementSibling.style.display==='none'?'block':'none');" style="cursor: pointer;">Abstract</a>]
       <div style="display: none; margin-top: 0.5em; padding: 0.5em; border-left: 3px solid #aaa; background: #f9f9f9; text-align: justify;">
         Choice consistency with utility maximization, as a key assumption in economics, has been extensively used to evaluate decision quality of individuals and to predict real-world outcomes across different contexts. Here we investigate the generalizability of consistency measures derived from budgetary decisions in the lab-in-the-field experiment and purchasing decisions using supermarket scanner data. In the first study, we observe a lack of correlation between consistency scores derived from risky decisions in the experiment and those from supermarket food purchasing decisions. In the second study, we observe moderate correlations between experimental tasks and low to moderate correlations across purchasing categories and over time periods within the supermarket. Moreover, consistency in the two settings exhibits distinct predictive validity in predicting consumer behavior. These results suggest that choice consistency, as a measure of decision quality, may be better characterized as a multidimensional skill set rather than a single-dimensional ability.
       </div>
@@ -78,7 +78,7 @@ Research
     <a href="https://arxiv.org/abs/2406.13490" target="_blank" style="color: inherit;">The Surprising Benefits of Base Rate Neglect in Robust Aggregation</a>, June 2024. <br>
     <a href="https://cfcs.pku.edu.cn/yuqkong/" target="_blank" style="color: inherit;">Kong, Yuqing</a>,
     <b>Shu Wang</b>, <a href="https://none44353.github.io/" target="_blank" style="color: inherit;">Ying Wang</a>. 
-    [<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display=(this.nextElementSibling.style.display==='none'?'block':'none');" style="text-decoration: underline; cursor: pointer;">Abstract</a>]
+    [<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display=(this.nextElementSibling.style.display==='none'?'block':'none');" style="cursor: pointer;">Abstract</a>]
       <div style="display: none; margin-top: 0.5em; padding: 0.5em; border-left: 3px solid #aaa; background: #f9f9f9; text-align: justify;">
         Robust aggregation integrates predictions from multiple experts without knowledge of experts' information structures. Prior work assumes experts are Bayesian, providing predictions as perfect posteriors based on their signals. However, real-world experts often deviate systematically from Bayesian reasoning. Our work considers experts who tend to ignore the base rate and reveals that a certain degree of base rate neglect helps robust forecast aggregation. Specifically, we consider a two-expert forecast aggregation problem with a binary world state. Experts exhibit base rate neglect, incorporating the base rate information to degree \( \lambda \in [0,1] \). Aggregators' performance is measured by the worst-case regret, which is the maximum regret across the set of considered information structures compared to an omniscient benchmark. Our results reveal the surprising V-shape of regret as a function of experts' base rate consideration degree \( \lambda \), meaning that predictions with intermediate base rate neglect can counter-intuitively lead to better aggregated predictions than perfect Bayesian posteriors.
       </div>
@@ -115,7 +115,7 @@ Research
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">3.</div>
   <div>
-    刘天寒，<b>王澍</b>（通讯作者），<a href="https://sjjj.magtech.com.cn/CN/Y2026/V49/I2/195" target="_blank" style="color: inherit; text-decoration: underline;">沉没成本效应与在线学习表现</a>，<b>世界经济</b>，2026年第2期: 195-220.（封面文章） <br>
+    刘天寒，<b>王澍</b>（通讯作者），<a href="https://sjjj.magtech.com.cn/CN/Y2026/V49/I2/195" target="_blank" style="color: inherit;">沉没成本效应与在线学习表现</a>，<b>世界经济</b>，2026年第2期: 195-220.（封面文章） <br>
   </div>
 </div>
 
