@@ -40,7 +40,7 @@ Research
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">3.</div>
   <div>
-    <a href="https://shuwang719.github.io/docs/method.pdf" target="_blank">When Experimental Economics Meets Large Language Models: Evidence-based Tactics</a>, Oct. 2025. <br>
+    <a href="https://shuwang719.github.io/docs/method.pdf" target="_blank" style="color: inherit; text-decoration: underline;>When Experimental Economics Meets Large Language Models: Evidence-based Tactics</a>, Oct. 2025. <br>
     <b>Wang, Shu</b>, 
     <a href="https://zijun-yao.github.io/" target="_blank" style="color: inherit; text-decoration: underline;">Zijun Yao</a>,
     Shuhuai Zhang, Jianuo Gai, 
@@ -57,7 +57,7 @@ Research
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">2.</div>
   <div>
-    <a href="https://arxiv.org/abs/2505.05275" target="_blank">How General Are Measures of Choice Consistency? Evidence from Experimental and Scanner Data</a>, Sep. 2025. <br>
+    <a href="https://arxiv.org/abs/2505.05275" target="_blank" style="color: inherit; text-decoration: underline;>How General Are Measures of Choice Consistency? Evidence from Experimental and Scanner Data</a>, Sep. 2025. <br>
     Chen, Mingshi, 
     <a href="https://tracyxliu.com/" target="_blank" style="color: inherit; text-decoration: underline;">Tracy Xiao Liu</a>,
     <a href="https://shanyouleo.github.io/" target="_blank" style="color: inherit; text-decoration: underline;">You Shan</a>,
@@ -75,7 +75,7 @@ Research
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">1.</div>
   <div>
-    <a href="https://arxiv.org/abs/2406.13490" target="_blank">The Surprising Benefits of Base Rate Neglect in Robust Aggregation</a>, June 2024. <br>
+    <a href="https://arxiv.org/abs/2406.13490" target="_blank" style="color: inherit; text-decoration: underline;>The Surprising Benefits of Base Rate Neglect in Robust Aggregation</a>, June 2024. <br>
     <a href="https://cfcs.pku.edu.cn/yuqkong/" target="_blank" style="color: inherit; text-decoration: underline;">Kong, Yuqing</a>,
     <b>Shu Wang</b>, <a href="https://none44353.github.io/" target="_blank" style="color: inherit; text-decoration: underline;">Ying Wang</a>. 
     [<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display=(this.nextElementSibling.style.display==='none'?'block':'none');" style="text-decoration: underline; cursor: pointer;">Abstract</a>]
