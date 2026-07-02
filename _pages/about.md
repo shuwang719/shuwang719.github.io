@@ -25,9 +25,9 @@ Research
   <div>
     <a href="https://arxiv.org/abs/2604.19260" target="_blank" style="color: inherit; text-decoration: underline;">Understanding the Mechanism of Altruism in Large Language Models</a>, Apr. 2026. <br>
     Zhang, Shuhuai, <b>Shu Wang</b>, 
-    <a href="https://zijun-yao.github.io/" target="_blank" style="color: inherit; text-decoration: underline;">Zijun Yao</a>,
-    <a href="https://www.chuanhao-li.com/" target="_blank" style="color: inherit; text-decoration: underline;">Chuanhao Li</a>,
-    <a href="https://bakser.github.io/" target="_blank" style="color: inherit; text-decoration: underline;">Xiaozhi Wang</a>,
+    <a href="https://zijun-yao.github.io/" target="_blank" style="color: inherit;">Zijun Yao</a>,
+    <a href="https://www.chuanhao-li.com/" target="_blank" style="color: inherit;">Chuanhao Li</a>,
+    <a href="https://bakser.github.io/" target="_blank" style="color: inherit;">Xiaozhi Wang</a>,
     <a href="https://zhongsongfa.weebly.com/" target="_blank" style="color: inherit; text-decoration: underline;">Songfa Zhong</a>,
     <a href="https://tracyxliu.com/" target="_blank" style="color: inherit; text-decoration: underline;">Tracy Xiao Liu</a>. 
   [<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display=(this.nextElementSibling.style.display==='none'?'block':'none');" style="text-decoration: underline; cursor: pointer;">Abstract</a>]
