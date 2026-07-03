@@ -110,7 +110,7 @@ Research
   </div>
 </div>
 
-### Publications in Chinese1
+### Publications in Chinese
 
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">3.</div>
