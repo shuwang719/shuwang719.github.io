@@ -127,6 +127,10 @@ Research
   <div style="width: 2em; flex-shrink: 0;">2.</div>
   <div>
     <a href="https://economics.nankai.edu.cn/2019/1006/c16878a208301/page.htm" target="_blank" style="color: inherit; text-decoration: none;">毛其淋</a>，<b>王澍</b>，<a href="https://shuwang719.github.io/docs/2022%E5%9B%BD%E9%99%85%E8%B4%B8%E6%98%93%E9%97%AE%E9%A2%98.pdf" target="_blank" style="color: inherit; text-decoration: none;">外资并购对中国企业产能利用率的影响</a>，<b>国际贸易问题</b>，2022年第1期: 113-129. <br>
+        [<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display=(this.nextElementSibling.style.display==='none'?'block':'none');" style="cursor: pointer; text-decoration: none;">Abstract</a>]
+      <div style="display: none; margin-top: 0.5em; padding: 0.5em; border-left: 3px solid #aaa; background: #f9f9f9; text-align: justify;">
+        改革开放40年来,中国外资并购频繁发生,对经济增长做出了积极的贡献。然而伴随中国经济的高速发展,产能过剩问题日益凸显。本文基于1998—2007年中国企业数据,采用PSM-DID方法系统地研究了外资并购对中国企业产能利用率的影响及作用机制。实证结果表明,外资并购显著促进了企业产能利用率的提高;影响机制检验发现,出口扩张、研发创新和生产效率是外资并购提升企业产能利用率的重要途径;进一步的动态效应估计显示,外资并购后五年内对企业产能利用率具有显著的促进作用,且该效应呈"倒U型"动态变化特征。此外,本文还考察了外资并购对企业产能利用率的异质性影响,发现外资并购对内陆地区企业、高资本密集度企业和高融资约束企业产能利用率提高的促进作用更大。本文最后采用面板分位数回归方法检验了外资并购的产能利用率效应在不同产能水平企业之间的差异性,发现外资并购在更大程度上提升了落后产能企业的产能利用率。以上研究意味着,外资并购有助于缩小企业间产能利用率差距,这对于减少社会资源浪费、提高资源配置效率以及推动产业结构转型升级具有重要的作用。
+      </div>
   </div>
 </div>
 
@@ -134,6 +138,10 @@ Research
   <div style="width: 2em; flex-shrink: 0;">1.</div>
   <div>
     <a href="https://economics.nankai.edu.cn/2019/1006/c16878a208301/page.htm" target="_blank" style="color: inherit; text-decoration: none;">毛其淋</a>，<b>王澍</b>，<a href="https://shuwang719.github.io/docs/2019%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E%E7%A0%94%E7%A9%B6.pdf" target="_blank" style="color: inherit; text-decoration: none;">地方金融自由化如何影响中国企业出口?: 以城市商业银行发展为例</a>，<b>世界经济研究</b>，2019年第8期: 11-29.（封面文章） <br>
+        [<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display=(this.nextElementSibling.style.display==='none'?'block':'none');" style="cursor: pointer; text-decoration: none;">Abstract</a>]
+      <div style="display: none; margin-top: 0.5em; padding: 0.5em; border-left: 3px solid #aaa; background: #f9f9f9; text-align: justify;">
+        改革开放四十年来,中国创造了出口贸易发展的奇迹,文章从地方金融自由化视角对中国企业出口扩张提供一种可能的解释。以城市商业银行的设立为研究背景,文章采用1998～2013年中国工业企业数据进行实证研究发现,地方金融自由化不仅显著提高了企业出口概率,而且对企业出口规模扩张具有明显的促进作用,这一结论在处理潜在的样本选择偏差和内生性问题后依旧成立。异质性分析表明,地方金融自由化的出口扩张效应对于民营企业、一般贸易企业和外部融资依赖度高的企业而言更加明显。此外,文章还将城商行的设立作为准自然实验,采用倍差法进行估计,结果也表明地方金融自由化显著促进了企业出口规模的扩张,并且这一促进效应随着城市商业银行设立时间的延长而增强。进一步的影响机制检验表明,地方金融自由化通过缓解企业面临的融资约束问题,促进了企业出口规模扩张。文章的研究结论有助于深入理解地方金融发展与企业出口的内在联系,同时为客观评估地方性金融机构的设立以及企业的出口效应提供了经验证据。此外,文章对地方金融性机构的政策调整也具有重要的启示意义。
+      </div>
   </div>
 </div>
 
