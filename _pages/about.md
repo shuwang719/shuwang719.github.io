@@ -115,7 +115,11 @@ Research1
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">3.</div>
   <div>
-    刘天寒，<b>王澍</b>（通讯作者），<a href="https://sjjj.magtech.com.cn/CN/Y2026/V49/I2/195" target="_blank" style="color: inherit; text-decoration: none;">沉没成本效应与在线学习表现</a>，<b>世界经济</b>，2026年第2期: 195-220.（封面文章） <br>
+    刘天寒，<b>王澍</b>（通讯作者），<a href="https://sjjj.magtech.com.cn/CN/Y2026/V49/I2/195" target="_blank" style="color: inherit; text-decoration: none;">沉没成本效应与在线学习表现</a>，<b>世界经济</b>，2026年第2期: 195-220.（封面文章） <br>     
+    [<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display=(this.nextElementSibling.style.display==='none'?'block':'none');" style="cursor: pointer; text-decoration: none;">Abstract</a>]
+      <div style="display: none; margin-top: 0.5em; padding: 0.5em; border-left: 3px solid #aaa; background: #f9f9f9; text-align: justify;">
+        在线教育平台普遍面临由于用户缺乏学习动力而导致的低参与率和低结课率的挑战。针对这一问题,本研究通过与某慕课平台合作,设计了基于沉没成本效应的积分兑换课程机制,并进行了1个学期、覆盖1426门课程的大规模田野实验。课程被随机分为兑换组和非兑换组,以检验积分兑换课程机制对课程平均表现的影响。研究结果表明：兑换组深度用户的课程学习表现显著提升,说明其受到了沉没成本效应的影响;但该机制产生的准入成本同时挤出了部分用户,从而导致课程平均表现下降。因此,平台应合理平衡积分兑换课程机制的正向效果及潜在的负向影响,在优化课程资源配置的同时促进深度用户的学习投入。
+      </div>
   </div>
 </div>
 
