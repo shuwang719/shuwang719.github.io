@@ -24,7 +24,8 @@ Research
   <div style="width: 2em; flex-shrink: 0;">4.</div>
   <div>
     <a href="https://arxiv.org/abs/2604.19260" target="_blank" style="color: inherit; text-decoration: none;">Understanding the Mechanism of Altruism in Large Language Models</a>, Apr. 2026. <br>
-    Zhang, Shuhuai, <b>Shu Wang</b>, 
+    <a href="https://scholar.google.com/citations?user=_lIKYKgAAAAJ&hl=zh-CN" target="_blank" style="color: inherit; text-decoration: none;">Zhang, Shuhuai</a>,
+    <b>Shu Wang</b>, 
     <a href="https://zijun-yao.github.io/" target="_blank" style="color: inherit; text-decoration: none;">Zijun Yao</a>,
     <a href="https://www.chuanhao-li.com/" target="_blank" style="color: inherit; text-decoration: none;">Chuanhao Li</a>,
     <a href="https://bakser.github.io/" target="_blank" style="color: inherit; text-decoration: none;">Xiaozhi Wang</a>,
@@ -43,7 +44,8 @@ Research
     <a href="https://shuwang719.github.io/docs/method.pdf" target="_blank" style="color: inherit; text-decoration: none;">When Experimental Economics Meets Large Language Models: Evidence-based Tactics</a>, Oct. 2025. <br>
     <b>Wang, Shu</b>, 
     <a href="https://zijun-yao.github.io/" target="_blank" style="color: inherit; text-decoration: none;">Zijun Yao</a>,
-    Shuhuai Zhang, Jianuo Gai, 
+    <a href="https://scholar.google.com/citations?user=_lIKYKgAAAAJ&hl=zh-CN" target="_blank" style="color: inherit; text-decoration: none;">Shuhuai Zhang</a>,
+    Jianuo Gai, 
     <a href="https://tracyxliu.com/" target="_blank" style="color: inherit; text-decoration: none;">Tracy Xiao Liu</a>,
     <a href="https://zhongsongfa.weebly.com/" target="_blank" style="color: inherit; text-decoration: none;">Songfa Zhong</a>. 
     [<a href="https://arxiv.org/abs/2505.21371" target="_blank" style="text-decoration: none;">arXiv</a>] 
