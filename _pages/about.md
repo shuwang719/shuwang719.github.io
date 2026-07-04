@@ -18,7 +18,7 @@ Email: shuwang719 [at] gmail.com
 
 Research
 ======
-### Working Papers1
+### Working Papers
 
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">4.</div>
