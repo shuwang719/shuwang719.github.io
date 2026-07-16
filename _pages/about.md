@@ -11,7 +11,7 @@ Welcome!
 ======
 ​​I am an assistant professor in economics at <a href="https://lingnan.sysu.edu.cn/en" target="_blank" style="color: inherit; text-decoration: underline;">Lingnan College</a>, <a href="https://www.sysu.edu.cn/sysuen/" target="_blank" style="color: inherit; text-decoration: underline;">Sun Yat-san University</a>. I received my Ph.D. in economics from <a href="https://www.tsinghua.edu.cn/en/" target="_blank" style="color: inherit; text-decoration: underline;">Tsinghua University</a> in 2026. My research interests include experimental economics, behavioral economics, digital Economy (AI), and health economics. <span style="display:block; margin-bottom:0.5em;"></span>
 You can download my CV <a href="https://shuwang719.github.io/docs/ShuWang-CV.pdf" target="_blank" style="color: inherit; text-decoration: underline;">here</a>. <span style="display:block; margin-bottom:0.5em;"></span>
-Email: shuwang719 [at] gmail.com
+Email: shuwang719 [at] gmail.com, wangsh628 [at] mail.sysu.edu.cn
 
 
 <br>
