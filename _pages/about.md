@@ -41,14 +41,13 @@ Research
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">3.</div>
   <div>
-    <a href="https://shuwang719.github.io/docs/method.pdf" target="_blank" style="color: inherit; text-decoration: none;">When Experimental Economics Meets Large Language Models: Evidence-based Tactics</a>, Oct. 2025. <br>
+    <a href="https://arxiv.org/abs/2505.21371" target="_blank" style="color: inherit; text-decoration: none;">When Experimental Economics Meets Large Language Models: Evidence-based Tactics</a>, Oct. 2025. <br>
     <b>Wang, Shu</b>, 
     <a href="https://zijun-yao.github.io/" target="_blank" style="color: inherit; text-decoration: none;">Zijun Yao</a>,
     <a href="https://sites.google.com/view/shuhuai/" target="_blank" style="color: inherit; text-decoration: none;">Shuhuai Zhang</a>,
     Jianuo Gai, 
     <a href="https://tracyxliu.com/" target="_blank" style="color: inherit; text-decoration: none;">Tracy Xiao Liu</a>,
     <a href="https://zhongsongfa.weebly.com/" target="_blank" style="color: inherit; text-decoration: none;">Songfa Zhong</a>. 
-    [<a href="https://arxiv.org/abs/2505.21371" target="_blank" style="text-decoration: none;">arXiv</a>] 
   [<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display=(this.nextElementSibling.style.display==='none'?'block':'none');" style=" cursor: pointer; text-decoration: none;">Abstract</a>]
       <div style="display: none; margin-top: 0.5em; padding: 0.5em; border-left: 3px solid #aaa; background: #f9f9f9; text-align: justify;">
         Advancements in large language models (LLMs) have sparked a growing interest in measuring and understanding their behavior through experimental economics. However, there is still a lack of established guidelines for designing economic experiments for LLMs. Inspired by principles from experimental economics with insights from LLM research in artificial intelligence, we outline key considerations in the experimental design and implementation stage, and perform two sets of experiments to assess the impact of these considerations on LLMs' responses. Based on our findings, we discuss seven practical tactics for conducting experiments with LLMs. Our study enhances the design, replicability, and generalizability of LLM experiments, and broadens the scope of experimental economics in the digital age.
