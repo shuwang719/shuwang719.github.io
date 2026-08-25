@@ -157,17 +157,6 @@ Teaching
 - Intermediate Macroeconomics (undergraduate), Tsinghua University; 2021 fall
 - Econometrics (undergraduate), Nankai University; 2019 fall
 
-<br>
-
-Professional Activities
-======
-### Referee
-*Management Science*, *Journal of Economic Behavior & Organization*, *Journal of Behavioral and Experimental Economics*
-
-
-
-
-
 
 
 
@@ -178,6 +167,14 @@ Professional Activities
 
 
 <!--
+
+<br>
+
+Professional Activities
+======
+### Referee
+*Management Science*, *Journal of Economic Behavior & Organization*, *Journal of Behavioral and Experimental Economics*
+
 ---------------------------------------------------------------------------------------------------------------------------
 I am on the 2025-26 job market. <span style="display:block; margin-bottom:0.5em;"></span>
 
