@@ -29,7 +29,7 @@ Research
     <a href="https://zijun-yao.github.io/" target="_blank" style="color: inherit; text-decoration: none;">Zijun Yao</a>,
     <a href="https://www.chuanhao-li.com/" target="_blank" style="color: inherit; text-decoration: none;">Chuanhao Li</a>,
     <a href="https://bakser.github.io/" target="_blank" style="color: inherit; text-decoration: none;">Xiaozhi Wang</a>,
-    <a href="https://zhongsongfa.weebly.com/" target="_blank" style="color: inherit; text-decoration: none;">Songfa Zhong</a>,
+    <a href="https://sites.google.com/view/zhongsongfa/home" target="_blank" style="color: inherit; text-decoration: none;">Songfa Zhong</a>,
     <a href="https://tracyxliu.com/" target="_blank" style="color: inherit; text-decoration: none;">Tracy Xiao Liu</a>. 
   [<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display=(this.nextElementSibling.style.display==='none'?'block':'none');" style="cursor: pointer; text-decoration: none;">Abstract</a>]
       <div style="display: none; margin-top: 0.5em; padding: 0.5em; border-left: 3px solid #aaa; background: #f9f9f9; text-align: justify;">
@@ -47,7 +47,7 @@ Research
     <a href="https://sites.google.com/view/shuhuai/" target="_blank" style="color: inherit; text-decoration: none;">Shuhuai Zhang</a>,
     Jianuo Gai, 
     <a href="https://tracyxliu.com/" target="_blank" style="color: inherit; text-decoration: none;">Tracy Xiao Liu</a>,
-    <a href="https://zhongsongfa.weebly.com/" target="_blank" style="color: inherit; text-decoration: none;">Songfa Zhong</a>. 
+    <a href="https://sites.google.com/view/zhongsongfa/home" target="_blank" style="color: inherit; text-decoration: none;">Songfa Zhong</a>. 
   [<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display=(this.nextElementSibling.style.display==='none'?'block':'none');" style=" cursor: pointer; text-decoration: none;">Abstract</a>]
       <div style="display: none; margin-top: 0.5em; padding: 0.5em; border-left: 3px solid #aaa; background: #f9f9f9; text-align: justify;">
         Advancements in large language models (LLMs) have sparked a growing interest in measuring and understanding their behavior through experimental economics. However, there is still a lack of established guidelines for designing economic experiments for LLMs. Inspired by principles from experimental economics with insights from LLM research in artificial intelligence, we outline key considerations in the experimental design and implementation stage, and perform two sets of experiments to assess the impact of these considerations on LLMs' responses. Based on our findings, we discuss seven practical tactics for conducting experiments with LLMs. Our study enhances the design, replicability, and generalizability of LLM experiments, and broadens the scope of experimental economics in the digital age.
@@ -63,7 +63,7 @@ Research
     <a href="https://tracyxliu.com/" target="_blank" style="color: inherit; text-decoration: none;">Tracy Xiao Liu</a>,
     <a href="https://shanyouleo.github.io/" target="_blank" style="color: inherit; text-decoration: none;">You Shan</a>,
     <b>Shu Wang</b>, 
-    <a href="https://zhongsongfa.weebly.com/" target="_blank" style="color: inherit; text-decoration: none;">Songfa Zhong</a>,
+    <a href="https://sites.google.com/view/zhongsongfa/home" target="_blank" style="color: inherit; text-decoration: none;">Songfa Zhong</a>,
     Yanju Zhou. 
       [<a href="javascript:void(0);" onclick="this.nextElementSibling.style.display=(this.nextElementSibling.style.display==='none'?'block':'none');" style="cursor: pointer; text-decoration: none;">Abstract</a>]
       <div style="display: none; margin-top: 0.5em; padding: 0.5em; border-left: 3px solid #aaa; background: #f9f9f9; text-align: justify;">
