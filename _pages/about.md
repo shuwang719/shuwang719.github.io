@@ -41,7 +41,7 @@ Research
 <div style="display: flex; margin-bottom: 1.2em; line-height: 1.4;">
   <div style="width: 2em; flex-shrink: 0;">3.</div>
   <div>
-    <a href="https://arxiv.org/abs/2505.21371" target="_blank" style="color: inherit; text-decoration: none;">When Experimental Economics Meets Large Language Models: Evidence-based Tactics</a>, Oct. 2025. <br>
+    <a href="https://arxiv.org/abs/2505.21371" target="_blank" style="color: inherit; text-decoration: none;">When Experimental Economics Meets Large Language Models: Evidence-based Tactics</a>, Oct. 2025, Revision requested. <br>
     <b>Wang, Shu</b>, 
     <a href="https://zijun-yao.github.io/" target="_blank" style="color: inherit; text-decoration: none;">Zijun Yao</a>,
     <a href="https://sites.google.com/view/shuhuai/" target="_blank" style="color: inherit; text-decoration: none;">Shuhuai Zhang</a>,
